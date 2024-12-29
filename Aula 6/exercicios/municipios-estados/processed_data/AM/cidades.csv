@@ -1,0 +1,63 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+1300029,Alvarães,-3.22727,-64.8007,0,13,289,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300060,Amaturá,-3.37455,-68.2005,0,13,291,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300086,Anamã,-3.56697,-61.3963,0,13,293,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300102,Anori,-3.74603,-61.6575,0,13,203,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300144,Apuí,-7.19409,-59.896,0,13,969,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300201,Atalaia do Norte,-4.37055,-70.1967,0,13,205,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1300300,Autazes,-3.58574,-59.1256,0,13,207,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300409,Barcelos,-0.983373,-62.9311,0,13,209,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300508,Barreirinha,-2.79886,-57.0679,0,13,211,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300607,Benjamin Constant,-4.37768,-70.0342,0,13,213,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1300631,Beruri,-3.89874,-61.3616,0,13,295,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300680,Boa Vista do Ramos,-2.97409,-57.5873,0,13,297,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300706,Boca do Acre,-8.74232,-67.3919,0,13,215,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1300805,Borba,-4.39154,-59.5874,0,13,217,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300839,Caapiranga,-3.31537,-61.2206,0,13,299,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1300904,Canutama,-6.52582,-64.3953,0,13,219,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301001,Carauari,-4.88161,-66.9086,0,13,221,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301100,Careiro,-3.76803,-60.369,0,13,223,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301159,Careiro da Várzea,-3.314,-59.5557,0,13,965,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301209,Coari,-4.09412,-63.1441,0,13,225,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301308,Codajás,-3.83053,-62.0658,0,13,227,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301407,Eirunepé,-6.65677,-69.8662,0,13,229,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1301506,Envira,-7.43789,-70.0281,0,13,231,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1301605,Fonte Boa,-2.52342,-66.0942,0,13,233,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301654,Guajará,-7.53797,-72.5907,0,13,967,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1301704,Humaitá,-7.51171,-63.0327,0,13,235,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301803,Ipixuna,-7.04791,-71.6934,0,13,239,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1301852,Iranduba,-3.27479,-60.19,0,13,9835,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301902,Itacoatiara,-3.13861,-58.4449,0,13,241,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1301951,Itamarati,-6.43852,-68.2437,0,13,9837,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1302009,Itapiranga,-2.74081,-58.0293,0,13,243,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302108,Japurá,-1.88237,-66.9291,0,13,245,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302207,Juruá,-3.48438,-66.0718,0,13,247,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302306,Jutaí,-2.75814,-66.7595,0,13,249,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1302405,Lábrea,-7.26413,-64.7948,0,13,251,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1302504,Manacapuru,-3.29066,-60.6216,0,13,253,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302553,Manaquiri,-3.44078,-60.4612,0,13,9839,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302603,Manaus,-3.11866,-60.0212,1,13,255,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302702,Manicoré,-5.80462,-61.2895,0,13,257,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302801,Maraã,-1.85313,-65.573,0,13,259,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1302900,Maués,-3.39289,-57.7067,0,13,261,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303007,Nhamundá,-2.20793,-56.7112,0,13,263,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303106,Nova Olinda do Norte,-3.90037,-59.094,0,13,265,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303205,Novo Airão,-2.63637,-60.9434,0,13,201,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303304,Novo Aripuanã,-5.12593,-60.3732,0,13,267,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303403,Parintins,-2.63741,-56.729,0,13,269,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303502,Pauini,-7.71311,-66.992,0,13,271,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1303536,Presidente Figueiredo,-2.02981,-60.0234,0,13,9841,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303569,Rio Preto da Eva,-2.7045,-59.6858,0,13,9843,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303601,Santa Isabel do Rio Negro,-0.410824,-65.0092,0,13,237,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303700,Santo Antônio do Içá,-3.09544,-67.9463,0,13,273,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303809,São Gabriel da Cachoeira,-0.11909,-67.084,0,13,283,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1303908,São Paulo de Olivença,-3.47292,-68.9646,0,13,275,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1303957,São Sebastião do Uatumã,-2.55915,-57.8731,0,13,9845,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1304005,Silves,-2.81748,-58.248,0,13,277,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1304062,Tabatinga,-4.2416,-69.9383,0,13,9847,97,America/Rio_Branco,AM,Amazonas,-3.47,-65.1,Norte
+1304104,Tapauá,-5.62085,-63.1808,0,13,279,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1304203,Tefé,-3.36822,-64.7193,0,13,281,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1304237,Tonantins,-2.86582,-67.7919,0,13,9851,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1304260,Uarini,-2.99609,-65.1133,0,13,9849,97,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1304302,Urucará,-2.52936,-57.7538,0,13,285,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte
+1304401,Urucurituba,-3.12841,-58.1496,0,13,287,92,America/Porto_Velho,AM,Amazonas,-3.47,-65.1,Norte

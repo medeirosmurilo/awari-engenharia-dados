@@ -1,0 +1,93 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+3300100,Angra dos Reis,-23.0011,-44.3196,0,33,5801,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300159,Aperibé,-21.6252,-42.1017,0,33,2919,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300209,Araruama,-22.8697,-42.3326,0,33,5803,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300225,Areal,-22.2283,-43.1118,0,33,2925,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300233,Armação dos Búzios,-22.7528,-41.8846,0,33,770,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300258,Arraial do Cabo,-22.9774,-42.0267,0,33,5927,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300308,Barra do Piraí,-22.4715,-43.8269,0,33,5805,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300407,Barra Mansa,-22.5481,-44.1752,0,33,5807,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300456,Belford Roxo,-22.764,-43.3992,0,33,2909,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300506,Bom Jardim,-22.1545,-42.4251,0,33,5809,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300605,Bom Jesus do Itabapoana,-21.1449,-41.6822,0,33,5811,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300704,Cabo Frio,-22.8894,-42.0286,0,33,5813,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300803,Cachoeiras de Macacu,-22.4658,-42.6523,0,33,5815,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300902,Cambuci,-21.5691,-41.9187,0,33,5817,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301009,Campos dos Goytacazes,-21.7622,-41.3181,0,33,5819,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301108,Cantagalo,-21.9797,-42.3664,0,33,5821,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300936,Carapebus,-22.1821,-41.663,0,33,772,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301157,Cardoso Moreira,-21.4846,-41.6165,0,33,2915,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301207,Carmo,-21.931,-42.6046,0,33,5823,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301306,Casimiro de Abreu,-22.4812,-42.2066,0,33,5825,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3300951,Comendador Levy Gasparian,-22.0404,-43.214,0,33,2927,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301405,Conceição de Macabu,-22.0834,-41.8719,0,33,5827,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301504,Cordeiro,-22.0267,-42.3648,0,33,5829,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301603,Duas Barras,-22.0536,-42.5232,0,33,5831,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301702,Duque de Caxias,-22.7858,-43.3049,0,33,5833,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301801,Engenheiro Paulo de Frontin,-22.5498,-43.6827,0,33,5835,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301850,Guapimirim,-22.5347,-42.9895,0,33,2907,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301876,Iguaba Grande,-22.8495,-42.2299,0,33,774,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3301900,Itaboraí,-22.7565,-42.8639,0,33,5837,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302007,Itaguaí,-22.8636,-43.7798,0,33,5839,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302056,Italva,-21.4296,-41.7014,0,33,5929,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302106,Itaocara,-21.6748,-42.0758,0,33,5841,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302205,Itaperuna,-21.1997,-41.8799,0,33,5843,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302254,Itatiaia,-22.4897,-44.5675,0,33,6003,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302270,Japeri,-22.6435,-43.6602,0,33,2913,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302304,Laje do Muriaé,-21.2091,-42.1271,0,33,5845,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302403,Macaé,-22.3768,-41.7848,0,33,5847,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302452,Macuco,-21.9813,-42.2533,0,33,776,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302502,Magé,-22.6632,-43.0315,0,33,5849,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302601,Mangaratiba,-22.9594,-44.0409,0,33,5851,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302700,Maricá,-22.9354,-42.8246,0,33,5853,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302809,Mendes,-22.5245,-43.7312,0,33,5855,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302858,Mesquita,-22.8028,-43.4601,0,33,1116,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3302908,Miguel Pereira,-22.4572,-43.4803,0,33,5857,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303005,Miracema,-21.4148,-42.1938,0,33,5859,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303104,Natividade,-21.039,-41.9697,0,33,5861,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303203,Nilópolis,-22.8057,-43.4233,0,33,5863,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303302,Niterói,-22.8832,-43.1034,0,33,5865,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303401,Nova Friburgo,-22.2932,-42.5377,0,33,5867,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303500,Nova Iguaçu,-22.7556,-43.4603,0,33,5869,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303609,Paracambi,-22.6078,-43.7108,0,33,5871,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303708,Paraíba do Sul,-22.1585,-43.304,0,33,5873,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303807,Paraty,-23.2221,-44.7175,0,33,5875,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303856,Paty do Alferes,-22.4309,-43.4285,0,33,6005,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303906,Petrópolis,-22.52,-43.1926,0,33,5877,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3303955,Pinheiral,-22.5172,-44.0022,0,33,778,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304003,Piraí,-22.6215,-43.9081,0,33,5879,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304102,Porciúncula,-20.9632,-42.0465,0,33,5881,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304110,Porto Real,-22.4175,-44.2952,0,33,780,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304128,Quatis,-22.4045,-44.2597,0,33,2923,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304144,Queimados,-22.7102,-43.5518,0,33,2911,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304151,Quissamã,-22.1031,-41.4693,0,33,6007,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304201,Resende,-22.4705,-44.4509,0,33,5883,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304300,Rio Bonito,-22.7181,-42.6276,0,33,5885,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304409,Rio Claro,-22.72,-44.1419,0,33,5887,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304508,Rio das Flores,-22.1692,-43.5856,0,33,5889,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304524,Rio das Ostras,-22.5174,-41.9475,0,33,2921,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304557,Rio de Janeiro,-22.9129,-43.2003,1,33,6001,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304607,Santa Maria Madalena,-21.9547,-42.0098,0,33,5891,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304706,Santo Antônio de Pádua,-21.541,-42.1832,0,33,5893,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304805,São Fidélis,-21.6551,-41.756,0,33,5895,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304755,São Francisco de Itabapoana,-21.4702,-41.1091,0,33,782,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3304904,São Gonçalo,-22.8268,-43.0634,0,33,5897,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305000,São João da Barra,-21.638,-41.0446,0,33,5899,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305109,São João de Meriti,-22.8058,-43.3729,0,33,5901,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305133,São José de Ubá,-21.3661,-41.9511,0,33,784,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305158,São José do Vale do Rio Preto,-22.1525,-42.9327,0,33,6009,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305208,São Pedro da Aldeia,-22.8429,-42.1026,0,33,5903,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305307,São Sebastião do Alto,-21.9578,-42.1328,0,33,5905,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305406,Sapucaia,-21.9949,-42.9142,0,33,5907,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305505,Saquarema,-22.9292,-42.5099,0,33,5909,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305554,Seropédica,-22.7526,-43.7155,0,33,786,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305604,Silva Jardim,-22.6574,-42.3961,0,33,5911,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305703,Sumidouro,-22.0485,-42.6761,0,33,5913,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305752,Tanguá,-22.7423,-42.7202,0,33,788,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305802,Teresópolis,-22.4165,-42.9752,0,33,5915,21,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3305901,Trajano de Moraes,-22.0638,-42.0643,0,33,5917,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3306008,Três Rios,-22.1165,-43.2185,0,33,5919,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3306107,Valença,-22.2445,-43.7129,0,33,5921,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3306156,Varre-Sai,-20.9276,-41.8701,0,33,2917,22,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3306206,Vassouras,-22.4059,-43.6686,0,33,5923,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste
+3306305,Volta Redonda,-22.5202,-44.0996,0,33,5925,24,America/Sao_Paulo,RJ,Rio de Janeiro,-22.25,-42.66,Sudeste

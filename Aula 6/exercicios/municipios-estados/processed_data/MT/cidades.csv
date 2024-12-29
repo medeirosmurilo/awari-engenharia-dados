@@ -1,0 +1,142 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+5100102,Acorizal,-15.194,-56.3632,0,51,9001,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100201,Água Boa,-14.051,-52.1601,0,51,9191,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100250,Alta Floresta,-9.86674,-56.0867,0,51,8987,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100300,Alto Araguaia,-17.3153,-53.2181,0,51,9005,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100359,Alto Boa Vista,-11.6732,-51.3883,0,51,127,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100409,Alto Garças,-16.9462,-53.5272,0,51,9007,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100508,Alto Paraguai,-14.5137,-56.4776,0,51,9009,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100607,Alto Taquari,-17.8241,-53.2792,0,51,9911,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5100805,Apiacás,-9.53981,-57.4587,0,51,9773,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101001,Araguaiana,-15.7291,-51.8341,0,51,9869,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101209,Araguainha,-16.857,-53.0318,0,51,9023,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101258,Araputanga,-15.4641,-58.3425,0,51,8989,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101308,Arenápolis,-14.4472,-56.8437,0,51,9025,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101407,Aripuanã,-10.1723,-59.4568,0,51,9027,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101605,Barão de Melgaço,-16.2067,-55.9623,0,51,9031,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101704,Barra do Bugres,-15.0702,-57.1878,0,51,9033,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101803,Barra do Garças,-15.8804,-52.264,0,51,9035,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101852,Bom Jesus do Araguaia,-12.1706,-51.5032,0,51,1078,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5101902,Brasnorte,-12.1474,-57.9833,0,51,9873,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102504,Cáceres,-16.0764,-57.6818,0,51,9047,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102603,Campinápolis,-14.5162,-52.893,0,51,9863,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102637,Campo Novo do Parecis,-13.6587,-57.8907,0,51,9777,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102678,Campo Verde,-15.545,-55.1626,0,51,9779,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102686,Campos de Júlio,-13.7242,-59.2858,0,51,1032,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102694,Canabrava do Norte,-11.0556,-51.8209,0,51,129,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102702,Canarana,-13.5515,-52.2705,0,51,9193,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102793,Carlinda,-9.94912,-55.8417,0,51,1034,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5102850,Castanheira,-11.1251,-58.6081,0,51,9783,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103007,Chapada dos Guimarães,-15.4643,-55.7499,0,51,9059,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103056,Cláudia,-11.5075,-54.8835,0,51,9789,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103106,Cocalinho,-14.3903,-51.0001,0,51,9865,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103205,Colíder,-10.8135,-55.461,0,51,8979,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103254,Colniza,-9.46121,-59.2252,0,51,1080,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103304,Comodoro,-13.6614,-59.7848,0,51,9883,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103353,Confresa,-10.6437,-51.5699,0,51,131,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103361,Conquista D'Oeste,-14.5381,-59.5444,0,51,1082,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103379,Cotriguaçu,-9.85656,-58.4192,0,51,89,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103403,Cuiabá,-15.601,-56.0974,1,51,9067,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103437,Curvelândia,-15.6084,-57.9133,0,51,1084,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103452,Denise,-14.7324,-57.0583,0,51,9833,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103502,Diamantino,-14.4037,-56.4366,0,51,9069,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103601,Dom Aquino,-15.8099,-54.9223,0,51,9071,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103700,Feliz Natal,-12.385,-54.9227,0,51,1036,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103809,Figueirópolis D'Oeste,-15.4439,-58.7391,0,51,9881,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103858,Gaúcha do Norte,-13.2443,-53.0809,0,51,1038,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103908,General Carneiro,-15.7094,-52.7574,0,51,9077,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5103957,Glória D'Oeste,-15.768,-58.3108,0,51,135,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104104,Guarantã do Norte,-9.96218,-54.9121,0,51,9887,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104203,Guiratinga,-16.346,-53.7575,0,51,9083,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104500,Indiavaí,-15.4921,-58.5802,0,51,9877,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104526,Ipiranga do Norte,-12.2408,-56.1531,0,51,1184,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104542,Itanhangá,-12.2259,-56.6463,0,51,1186,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104559,Itaúba,-11.0614,-55.2766,0,51,9901,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104609,Itiquira,-17.2147,-54.1422,0,51,9091,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104807,Jaciara,-15.9548,-54.9733,0,51,9095,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5104906,Jangada,-15.235,-56.4917,0,51,9861,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105002,Jauru,-15.3342,-58.8723,0,51,8991,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105101,Juara,-11.2639,-57.5244,0,51,9819,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105150,Juína,-11.3728,-58.7483,0,51,9831,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105176,Juruena,-10.3178,-58.3592,0,51,9921,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105200,Juscimeira,-16.0633,-54.8859,0,51,9189,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105234,Lambari D'Oeste,-15.3188,-58.0046,0,51,137,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105259,Lucas do Rio Verde,-13.0588,-55.9042,0,51,9925,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105309,Luciara,-11.2219,-50.6676,0,51,9105,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105580,Marcelândia,-11.0463,-54.4377,0,51,9899,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105606,Matupá,-10.1821,-54.9467,0,51,9929,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105622,Mirassol d'Oeste,-15.6759,-58.0951,0,51,9177,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105903,Nobres,-14.7192,-56.3284,0,51,9117,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106000,Nortelândia,-14.454,-56.7945,0,51,9119,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106109,Nossa Senhora do Livramento,-15.772,-56.3432,0,51,9121,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106158,Nova Bandeirantes,-9.84977,-57.8139,0,51,117,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106208,Nova Brasilândia,-14.9612,-54.9685,0,51,8981,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106216,Nova Canaã do Norte,-10.558,-55.953,0,51,9889,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108808,Nova Guarita,-10.312,-55.4061,0,51,121,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106182,Nova Lacerda,-14.4727,-59.6001,0,51,1040,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108857,Nova Marilândia,-14.3568,-56.9696,0,51,103,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108907,Nova Maringá,-13.0136,-57.0908,0,51,111,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108956,Nova Monte Verde,-9.99998,-57.5261,0,51,119,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106224,Nova Mutum,-13.8374,-56.0743,0,51,9937,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106174,Nova Nazaré,-13.9486,-51.8002,0,51,1086,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106232,Nova Olímpia,-14.7889,-57.2886,0,51,9893,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106190,Nova Santa Helena,-10.8651,-55.1872,0,51,1088,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106240,Nova Ubiratã,-12.9834,-55.2556,0,51,1042,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106257,Nova Xavantina,-14.6771,-52.3502,0,51,9195,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106273,Novo Horizonte do Norte,-11.4089,-57.3488,0,51,9903,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106265,Novo Mundo,-9.95616,-55.2029,0,51,1044,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106315,Novo Santo Antônio,-12.2875,-50.9686,0,51,1090,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106281,Novo São Joaquim,-14.9054,-53.0194,0,51,9867,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106299,Paranaíta,-9.65835,-56.4786,0,51,9885,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106307,Paranatinga,-14.4265,-54.0524,0,51,8983,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106372,Pedra Preta,-16.6245,-54.4722,0,51,9181,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106422,Peixoto de Azevedo,-10.2262,-54.9794,0,51,9891,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106455,Planalto da Serra,-14.6518,-54.7819,0,51,91,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106505,Poconé,-16.266,-56.6261,0,51,9129,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106653,Pontal do Araguaia,-15.9274,-52.3273,0,51,95,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106703,Ponte Branca,-16.7584,-52.8369,0,51,9133,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106752,Pontes e Lacerda,-15.2219,-59.3435,0,51,8999,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106778,Porto Alegre do Norte,-10.8761,-51.6357,0,51,9895,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106802,Porto dos Gaúchos,-11.533,-57.4132,0,51,9135,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106828,Porto Esperidião,-15.857,-58.4619,0,51,9875,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5106851,Porto Estrela,-15.3235,-57.2204,0,51,101,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107008,Poxoréu,-15.8299,-54.4208,0,51,9139,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107040,Primavera do Leste,-15.544,-54.2811,0,51,9871,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107065,Querência,-12.6093,-52.1821,0,51,97,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107156,Reserva do Cabaçal,-15.0743,-58.4585,0,51,9879,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107180,Ribeirão Cascalheira,-12.9367,-51.8244,0,51,9741,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107198,Ribeirãozinho,-16.4856,-52.6924,0,51,99,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107206,Rio Branco,-15.2483,-58.1259,0,51,8995,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107578,Rondolândia,-10.8376,-61.4697,0,51,1092,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107602,Rondonópolis,-16.4673,-54.6372,0,51,9151,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107701,Rosário Oeste,-14.8259,-56.4236,0,51,9153,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107750,Salto do Céu,-15.1303,-58.1317,0,51,8997,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107248,Santa Carmem,-11.9125,-55.2263,0,51,123,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107743,Santa Cruz do Xingu,-10.1532,-52.3953,0,51,1094,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107768,Santa Rita do Trivelato,-13.8146,-55.2706,0,51,1096,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107776,Santa Terezinha,-10.4704,-50.514,0,51,9197,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107263,Santo Afonso,-14.4945,-57.0091,0,51,115,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107792,Santo Antônio do Leste,-14.805,-53.6075,0,51,1098,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107800,Santo Antônio do Leverger,-15.8632,-56.0788,0,51,9155,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107859,São Félix do Araguaia,-11.615,-50.6706,0,51,9183,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107297,São José do Povo,-16.4549,-54.2487,0,51,6087,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107305,São José do Rio Claro,-13.4398,-56.7218,0,51,9199,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107354,São José do Xingu,-10.7982,-52.7486,0,51,133,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107107,São José dos Quatro Marcos,-15.6276,-58.1772,0,51,8993,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107404,São Pedro da Cipa,-16.0109,-54.9176,0,51,93,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107875,Sapezal,-12.9892,-58.7645,0,51,1046,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107883,Serra Nova Dourada,-12.0896,-51.4025,0,51,1100,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107909,Sinop,-11.8604,-55.5091,0,51,8985,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107925,Sorriso,-12.5425,-55.7211,0,51,9907,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107941,Tabaporã,-11.3007,-56.8312,0,51,125,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5107958,Tangará da Serra,-14.6229,-57.4933,0,51,9185,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108006,Tapurah,-12.695,-56.5178,0,51,9763,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108055,Terra Nova do Norte,-10.517,-55.231,0,51,9909,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108105,Tesouro,-16.0809,-53.559,0,51,9161,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108204,Torixoréu,-16.2006,-52.5571,0,51,9163,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108303,União do Sul,-11.5308,-54.3616,0,51,1048,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108352,Vale de São Domingos,-15.286,-59.0683,0,51,1102,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108402,Várzea Grande,-15.6458,-56.1322,0,51,9167,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108501,Vera,-12.3017,-55.3045,0,51,9905,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5105507,Vila Bela da Santíssima Trindade,-15.0068,-59.9504,0,51,9109,65,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste
+5108600,Vila Rica,-10.0137,-51.1186,0,51,9897,66,America/Porto_Velho,MT,Mato Grosso,-12.64,-55.42,Centro-Oeste

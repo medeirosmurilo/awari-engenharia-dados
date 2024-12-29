@@ -1,0 +1,5 @@
+# ENV
+.env
+
+# Jupyter Lab
+*/.ipynb_checkpoints

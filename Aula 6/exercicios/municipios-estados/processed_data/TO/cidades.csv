@@ -1,0 +1,140 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+1700251,Abreulândia,-9.62101,-49.1518,0,17,337,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1700301,Aguiarnópolis,-6.55409,-47.4702,0,17,72,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1700350,Aliança do Tocantins,-11.3056,-48.9361,0,17,9441,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1700400,Almas,-11.5706,-47.1792,0,17,9207,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1700707,Alvorada,-12.4785,-49.1249,0,17,9213,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1701002,Ananás,-6.36437,-48.0735,0,17,9219,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1701051,Angico,-6.39179,-47.8611,0,17,165,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1701101,Aparecida do Rio Negro,-9.94139,-47.9638,0,17,9713,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1701309,Aragominas,-7.16005,-48.5291,0,17,167,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1701903,Araguacema,-8.80755,-49.5569,0,17,9237,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702000,Araguaçu,-12.9289,-49.8231,0,17,9239,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702109,Araguaína,-7.19238,-48.2044,0,17,9241,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702158,Araguanã,-6.58225,-48.6395,0,17,169,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702208,Araguatins,-5.64659,-48.1232,0,17,9243,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702307,Arapoema,-7.65463,-49.0637,0,17,9245,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702406,Arraias,-12.9287,-46.9359,0,17,9247,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702554,Augustinópolis,-5.46863,-47.8863,0,17,9685,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702703,Aurora do Tocantins,-12.7105,-46.4076,0,17,9253,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1702901,Axixá do Tocantins,-5.61275,-47.7701,0,17,9257,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703008,Babaçulândia,-7.20923,-47.7613,0,17,9259,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703057,Bandeirantes do Tocantins,-7.75612,-48.5836,0,17,74,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703073,Barra do Ouro,-7.69593,-47.6776,0,17,76,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703107,Barrolândia,-9.83404,-48.7252,0,17,9693,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703206,Bernardo Sayão,-7.87481,-48.8893,0,17,9695,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703305,Bom Jesus do Tocantins,-8.96306,-48.165,0,17,341,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703602,Brasilândia do Tocantins,-8.38918,-48.4822,0,17,339,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703701,Brejinho de Nazaré,-11.0058,-48.5683,0,17,9273,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703800,Buriti do Tocantins,-5.31448,-48.2271,0,17,9715,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703826,Cachoeirinha,-6.1156,-47.9234,0,17,171,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703842,Campos Lindos,-7.98956,-46.8645,0,17,173,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703867,Cariri do Tocantins,-11.8881,-49.1609,0,17,327,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703883,Carmolândia,-7.03262,-48.3978,0,17,175,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703891,Carrasco Bonito,-5.31415,-48.0314,0,17,177,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1703909,Caseara,-9.27612,-49.9521,0,17,9717,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1704105,Centenário,-8.96103,-47.3304,0,17,343,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1705102,Chapada da Natividade,-11.6175,-47.7486,0,17,80,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1704600,Chapada de Areia,-10.1419,-49.1403,0,17,78,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1705508,Colinas do Tocantins,-8.05764,-48.4757,0,17,9311,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1716703,Colméia,-8.72463,-48.7638,0,17,9529,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1705557,Combinado,-12.7917,-46.5388,0,17,9697,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1705607,Conceição do Tocantins,-12.2209,-47.2951,0,17,9313,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1706001,Couto Magalhães,-8.28411,-49.2473,0,17,9321,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1706100,Cristalândia,-10.5985,-49.1942,0,17,9323,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1706258,Crixás do Tocantins,-11.0994,-48.9152,0,17,82,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1706506,Darcinópolis,-6.71591,-47.7597,0,17,179,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707009,Dianópolis,-11.624,-46.8198,0,17,9341,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707108,Divinópolis do Tocantins,-9.80018,-49.2169,0,17,9719,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707207,Dois Irmãos do Tocantins,-9.25534,-49.0638,0,17,9345,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707306,Dueré,-11.3416,-49.2716,0,17,9347,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707405,Esperantina,-5.36593,-48.5378,0,17,181,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707553,Fátima,-10.7603,-48.9076,0,17,9683,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707652,Figueirópolis,-12.1312,-49.1748,0,17,9667,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1707702,Filadélfia,-7.33501,-47.4954,0,17,9355,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1708205,Formoso do Araguaia,-11.7976,-49.5316,0,17,9365,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1708254,Fortaleza do Tabocão,-9.05611,-48.5206,0,17,345,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1708304,Goianorte,-8.77413,-48.9313,0,17,9699,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1709005,Goiatins,-7.71478,-47.3252,0,17,9533,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1709302,Guaraí,-8.83543,-48.5114,0,17,9627,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1709500,Gurupi,-11.7279,-49.068,0,17,9385,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1709807,Ipueiras,-11.2329,-48.46,0,17,84,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1710508,Itacajá,-8.39293,-47.7726,0,17,9405,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1710706,Itaguatins,-5.77267,-47.4864,0,17,9409,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1710904,Itapiratins,-8.37982,-48.1072,0,17,347,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1711100,Itaporã do Tocantins,-8.57172,-48.6895,0,17,9417,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1711506,Jaú do Tocantins,-12.6509,-48.589,0,17,329,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1711803,Juarina,-8.11951,-49.0643,0,17,349,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1711902,Lagoa da Confusão,-10.7906,-49.6199,0,17,367,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1711951,Lagoa do Tocantins,-10.368,-47.538,0,17,353,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1712009,Lajeado,-9.74996,-48.3565,0,17,351,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1712157,Lavandeira,-12.7847,-46.5099,0,17,86,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1712405,Lizarda,-9.59002,-46.6738,0,17,9569,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1712454,Luzinópolis,-6.17794,-47.8582,0,17,88,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1712504,Marianópolis do Tocantins,-9.79377,-49.6553,0,17,9711,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1712702,Mateiros,-10.5464,-46.4168,0,17,317,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1712801,Maurilândia do Tocantins,-5.95169,-47.5125,0,17,183,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1713205,Miracema do Tocantins,-9.56556,-48.393,0,17,9461,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1713304,Miranorte,-9.52907,-48.5922,0,17,9463,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1713601,Monte do Carmo,-10.7611,-48.1114,0,17,9469,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1713700,Monte Santo do Tocantins,-10.0075,-48.9941,0,17,90,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1713957,Muricilândia,-7.14669,-48.6091,0,17,187,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1714203,Natividade,-11.7034,-47.7223,0,17,9481,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1714302,Nazaré,-6.37496,-47.6643,0,17,9483,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1714880,Nova Olinda,-7.63171,-48.4252,0,17,9663,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1715002,Nova Rosalândia,-10.5651,-48.9125,0,17,9721,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1715101,Novo Acordo,-9.97063,-47.6785,0,17,9499,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1715150,Novo Alegre,-12.9217,-46.5713,0,17,9703,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1715259,Novo Jardim,-11.826,-46.6325,0,17,321,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1715507,Oliveira de Fátima,-10.707,-48.9086,0,17,92,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1721000,Palmas,-10.24,-48.3558,1,17,9733,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1715705,Palmeirante,-7.84786,-47.9242,0,17,189,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1713809,Palmeiras do Tocantins,-6.61658,-47.5464,0,17,185,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1715754,Palmeirópolis,-13.0447,-48.4026,0,17,9649,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1716109,Paraíso do Tocantins,-10.175,-48.8823,0,17,9519,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1716208,Paranã,-12.6167,-47.8734,0,17,9521,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1716307,Pau D'Arco,-7.53919,-49.367,0,17,191,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1716505,Pedro Afonso,-8.97034,-48.1729,0,17,9525,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1716604,Peixe,-12.0254,-48.5395,0,17,9527,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1716653,Pequizeiro,-8.5932,-48.9327,0,17,9705,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1717008,Pindorama do Tocantins,-11.1311,-47.5726,0,17,9537,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1717206,Piraquê,-6.77302,-48.2958,0,17,355,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1717503,Pium,-10.442,-49.1876,0,17,9547,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1717800,Ponte Alta do Bom Jesus,-12.0853,-46.4825,0,17,9551,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1717909,Ponte Alta do Tocantins,-10.7481,-47.5276,0,17,9553,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718006,Porto Alegre do Tocantins,-11.618,-47.0621,0,17,9723,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718204,Porto Nacional,-10.7027,-48.408,0,17,9559,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718303,Praia Norte,-5.39281,-47.8111,0,17,9725,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718402,Presidente Kennedy,-8.5406,-48.5062,0,17,9629,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718451,Pugmil,-10.424,-48.8957,0,17,94,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718501,Recursolândia,-8.7227,-47.2421,0,17,357,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718550,Riachinho,-6.44005,-48.1371,0,17,193,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718659,Rio da Conceição,-11.3949,-46.8847,0,17,323,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718709,Rio dos Bois,-9.34425,-48.5245,0,17,359,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718758,Rio Sono,-9.35002,-47.888,0,17,9679,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718808,Sampaio,-5.35423,-47.8782,0,17,9727,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718840,Sandolândia,-12.538,-49.9242,0,17,331,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718865,Santa Fé do Araguaia,-7.15803,-48.7165,0,17,195,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718881,Santa Maria do Tocantins,-8.8046,-47.7887,0,17,361,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718899,Santa Rita do Tocantins,-10.8617,-48.9161,0,17,96,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1718907,Santa Rosa do Tocantins,-11.4474,-48.1216,0,17,9729,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1719004,Santa Tereza do Tocantins,-10.2746,-47.8033,0,17,9731,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720002,Santa Terezinha do Tocantins,-6.44438,-47.6684,0,17,98,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720101,São Bento do Tocantins,-6.0258,-47.9012,0,17,197,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720150,São Félix do Tocantins,-10.1615,-46.6618,0,17,363,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720200,São Miguel do Tocantins,-5.56305,-47.5743,0,17,199,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720259,São Salvador do Tocantins,-12.7458,-48.2352,0,17,333,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720309,São Sebastião do Tocantins,-5.26131,-48.2021,0,17,9603,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720499,São Valério,-11.9743,-48.2353,0,17,9691,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720655,Silvanópolis,-11.1471,-48.1694,0,17,9659,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720804,Sítio Novo do Tocantins,-5.6012,-47.6381,0,17,9613,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720853,Sucupira,-11.993,-48.9685,0,17,335,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720903,Taguatinga,-12.4026,-46.437,0,17,9615,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720937,Taipas do Tocantins,-12.1873,-46.9797,0,17,325,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1720978,Talismã,-12.7949,-49.0896,0,17,100,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1721109,Tocantínia,-9.5632,-48.3741,0,17,9619,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1721208,Tocantinópolis,-6.32447,-47.4224,0,17,9621,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1721257,Tupirama,-8.97168,-48.1883,0,17,102,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1721307,Tupiratins,-8.39388,-48.1277,0,17,365,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1722081,Wanderlândia,-6.85274,-47.9601,0,17,9665,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte
+1722107,Xambioá,-6.4141,-48.532,0,17,9643,63,America/Sao_Paulo,TO,Tocantins,-9.46,-48.26,Norte

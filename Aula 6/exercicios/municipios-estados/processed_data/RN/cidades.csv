@@ -1,0 +1,168 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+2400109,Acari,-6.4282,-36.6347,0,24,1601,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400208,Açu,-5.58362,-36.914,0,24,1603,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400307,Afonso Bezerra,-5.49229,-36.5075,0,24,1605,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400406,Água Nova,-6.20351,-38.2941,0,24,1607,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400505,Alexandria,-6.40533,-38.0142,0,24,1609,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400604,Almino Afonso,-6.1475,-37.7636,0,24,1611,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400703,Alto do Rodrigues,-5.28186,-36.75,0,24,1613,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400802,Angicos,-5.65792,-36.6094,0,24,1615,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2400901,Antônio Martins,-6.21367,-37.8834,0,24,1617,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401008,Apodi,-5.65349,-37.7946,0,24,1619,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401107,Areia Branca,-4.95254,-37.1252,0,24,1621,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401206,Arês,-6.18831,-35.1608,0,24,1623,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401305,Augusto Severo (Campo Grande),-5.86206,-37.3135,0,24,1625,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401404,Baía Formosa,-6.37161,-35.0033,0,24,1627,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401453,Baraúna,-5.06977,-37.6129,0,24,3003,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401503,Barcelona,-5.94284,-35.9247,0,24,1629,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401602,Bento Fernandes,-5.69906,-35.813,0,24,1631,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401651,Bodó,-5.98027,-36.4167,0,24,412,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401701,Bom Jesus,-5.98648,-35.5792,0,24,1633,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401800,Brejinho,-6.18566,-35.3591,0,24,1635,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401859,Caiçara do Norte,-5.07091,-36.0717,0,24,414,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2401909,Caiçara do Rio do Vento,-5.76541,-35.9938,0,24,1637,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402006,Caicó,-6.45441,-37.1067,0,24,1639,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402105,Campo Redondo,-6.23829,-36.1888,0,24,1641,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402204,Canguaretama,-6.37193,-35.1281,0,24,1643,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402303,Caraúbas,-5.78387,-37.5586,0,24,1645,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402402,Carnaúba dos Dantas,-6.55015,-36.5868,0,24,1647,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402501,Carnaubais,-5.34181,-36.8335,0,24,1649,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402600,Ceará-Mirim,-5.64323,-35.4247,0,24,1651,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402709,Cerro Corá,-6.03503,-36.3503,0,24,1653,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402808,Coronel Ezequiel,-6.3748,-36.2223,0,24,1655,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2402907,Coronel João Pessoa,-6.24974,-38.4441,0,24,1657,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403004,Cruzeta,-6.40894,-36.7782,0,24,1659,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403103,Currais Novos,-6.25484,-36.5146,0,24,1661,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403202,Doutor Severiano,-6.08082,-38.3794,0,24,1663,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403301,Encanto,-6.10691,-38.3033,0,24,1665,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403400,Equador,-6.93835,-36.717,0,24,1667,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403509,Espírito Santo,-6.33563,-35.3052,0,24,1669,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403608,Extremoz,-5.70143,-35.3048,0,24,1671,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403707,Felipe Guerra,-5.59274,-37.6875,0,24,1673,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403756,Fernando Pedroza,-5.69096,-36.5282,0,24,416,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403806,Florânia,-6.12264,-36.8226,0,24,1675,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403905,Francisco Dantas,-6.07234,-38.1212,0,24,1677,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404002,Frutuoso Gomes,-6.15669,-37.8375,0,24,1751,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404101,Galinhos,-5.0909,-36.2754,0,24,1679,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404200,Goianinha,-6.26486,-35.1943,0,24,1681,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404309,Governador Dix-Sept Rosado,-5.44887,-37.5183,0,24,1683,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404408,Grossos,-4.98068,-37.1621,0,24,1685,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404507,Guamaré,-5.10619,-36.3222,0,24,1687,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404606,Ielmo Marinho,-5.82447,-35.55,0,24,1689,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404705,Ipanguaçu,-5.48984,-36.8501,0,24,1691,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404804,Ipueira,-6.80596,-37.2045,0,24,1693,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404853,Itajá,-5.63894,-36.8712,0,24,418,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2404903,Itaú,-5.8363,-37.9912,0,24,1695,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405009,Jaçanã,-6.41856,-36.2031,0,24,1697,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405108,Jandaíra,-5.35211,-36.1278,0,24,1699,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405207,Janduís,-6.01474,-37.4048,0,24,1701,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405306,Januário Cicco (Boa Saúde),-6.16566,-35.6219,0,24,1703,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405405,Japi,-6.46544,-35.9346,0,24,1705,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405504,Jardim de Angicos,-5.64999,-35.9713,0,24,1707,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405603,Jardim de Piranhas,-6.37665,-37.3496,0,24,1709,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405702,Jardim do Seridó,-6.58047,-36.7736,0,24,1711,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405801,João Câmara,-5.54094,-35.8122,0,24,1713,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2405900,João Dias,-6.27215,-37.7885,0,24,1715,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406007,José da Penha,-6.31095,-38.2823,0,24,1717,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406106,Jucurutu,-6.0306,-37.009,0,24,1719,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406155,Jundiá,-6.26866,-35.3495,0,24,1108,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406205,Lagoa d'Anta,-6.39493,-35.5949,0,24,1723,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406304,Lagoa de Pedras,-6.15082,-35.4299,0,24,1725,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406403,Lagoa de Velhos,-6.0119,-35.8729,0,24,1727,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406502,Lagoa Nova,-6.09339,-36.4703,0,24,1729,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406601,Lagoa Salgada,-6.12295,-35.4724,0,24,1731,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406700,Lajes,-5.69322,-36.247,0,24,1733,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406809,Lajes Pintadas,-6.14943,-36.1171,0,24,1735,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2406908,Lucrécia,-6.10525,-37.8134,0,24,1737,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407005,Luís Gomes,-6.40588,-38.3899,0,24,1739,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407104,Macaíba,-5.85229,-35.3552,0,24,1741,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407203,Macau,-5.10795,-36.6318,0,24,1743,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407252,Major Sales,-6.39949,-38.324,0,24,420,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407302,Marcelino Vieira,-6.2846,-38.1642,0,24,1745,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407401,Martins,-6.08279,-37.908,0,24,1747,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407500,Maxaranguape,-5.52181,-35.2631,0,24,1749,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407609,Messias Targino,-6.07194,-37.5158,0,24,1721,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407708,Montanhas,-6.48522,-35.2842,0,24,1753,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407807,Monte Alegre,-6.07063,-35.3253,0,24,1755,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2407906,Monte das Gameleiras,-6.43698,-35.7831,0,24,1757,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408003,Mossoró,-5.18374,-37.3474,0,24,1759,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408102,Natal,-5.79357,-35.1986,1,24,1761,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408201,Nísia Floresta,-6.09329,-35.1991,0,24,1763,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408300,Nova Cruz,-6.47511,-35.4286,0,24,1765,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408409,Olho-d'Água do Borges,-5.9486,-37.7047,0,24,1767,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408508,Ouro Branco,-6.6958,-36.9428,0,24,1769,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408607,Paraná,-6.47565,-38.3057,0,24,1771,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408706,Paraú,-5.76893,-37.1032,0,24,1773,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408805,Parazinho,-5.22276,-35.8398,0,24,1775,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408904,Parelhas,-6.68491,-36.6566,0,24,1777,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2403251,Parnamirim,-5.91116,-35.271,0,24,1779,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409100,Passa e Fica,-6.43018,-35.6442,0,24,1781,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409209,Passagem,-6.27268,-35.37,0,24,1783,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409308,Patu,-6.10656,-37.6356,0,24,1785,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409407,Pau dos Ferros,-6.10498,-38.2077,0,24,1787,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409506,Pedra Grande,-5.14988,-35.876,0,24,1789,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409605,Pedra Preta,-5.57352,-36.1084,0,24,1791,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409704,Pedro Avelino,-5.5161,-36.3867,0,24,1793,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409803,Pedro Velho,-6.4356,-35.2195,0,24,1795,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409902,Pendências,-5.2564,-36.7095,0,24,1797,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410009,Pilões,-6.26364,-38.0461,0,24,1799,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410108,Poço Branco,-5.62233,-35.6635,0,24,1801,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410207,Portalegre,-6.02064,-37.9865,0,24,1803,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410256,Porto do Mangue,-5.05441,-36.7887,0,24,426,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410405,Pureza,-5.46393,-35.5554,0,24,1807,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410504,Rafael Fernandes,-6.18987,-38.2211,0,24,1809,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410603,Rafael Godeiro,-6.07244,-37.716,0,24,1893,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410702,Riacho da Cruz,-5.92654,-37.949,0,24,1811,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410801,Riacho de Santana,-6.25139,-38.3116,0,24,1813,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410900,Riachuelo,-5.82156,-35.8215,0,24,1815,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2408953,Rio do Fogo,-5.2765,-35.3794,0,24,422,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411007,Rodolfo Fernandes,-5.78393,-38.0579,0,24,1817,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411106,Ruy Barbosa,-5.88745,-35.933,0,24,1819,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411205,Santa Cruz,-6.22475,-36.0193,0,24,1823,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2409332,Santa Maria,-5.83802,-35.6914,0,24,424,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411403,Santana do Matos,-5.94605,-36.6578,0,24,1827,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411429,Santana do Seridó,-6.76643,-36.7312,0,24,1825,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411502,Santo Antônio,-6.31195,-35.4739,0,24,1829,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411601,São Bento do Norte,-5.09259,-35.9587,0,24,1831,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411700,São Bento do Trairí,-6.33798,-36.0863,0,24,1833,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411809,São Fernando,-6.37975,-37.1864,0,24,1835,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411908,São Francisco do Oeste,-5.97472,-38.1519,0,24,1821,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412005,São Gonçalo do Amarante,-5.79068,-35.3257,0,24,1837,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412104,São João do Sabugi,-6.71387,-37.2027,0,24,1839,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412203,São José de Mipibu,-6.0773,-35.2417,0,24,1841,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412302,São José do Campestre,-6.31087,-35.7067,0,24,1843,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412401,São José do Seridó,-6.44002,-36.8746,0,24,1845,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412500,São Miguel,-6.20283,-38.4947,0,24,1847,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412559,São Miguel do Gostoso,-5.12302,-35.6354,0,24,430,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412609,São Paulo do Potengi,-5.8994,-35.7642,0,24,1849,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412708,São Pedro,-5.90559,-35.6317,0,24,1851,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412807,São Rafael,-5.79791,-36.8778,0,24,1853,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2412906,São Tomé,-5.96404,-36.0798,0,24,1855,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413003,São Vicente,-6.21893,-36.6827,0,24,1857,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413102,Senador Elói de Souza,-6.03334,-35.6978,0,24,1859,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413201,Senador Georgino Avelino,-6.1576,-35.1299,0,24,1861,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2410306,Serra Caiada,-6.10478,-35.7113,0,24,1805,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413300,Serra de São Bento,-6.41762,-35.7033,0,24,1863,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413359,Serra do Mel,-5.17725,-37.0242,0,24,1927,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413409,Serra Negra do Norte,-6.66031,-37.3996,0,24,1865,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413508,Serrinha,-6.28181,-35.5,0,24,1867,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413557,Serrinha dos Pintos,-6.11087,-37.9548,0,24,432,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413607,Severiano Melo,-5.77666,-37.957,0,24,1869,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413706,Sítio Novo,-6.11132,-35.909,0,24,1871,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413805,Taboleiro Grande,-5.91948,-38.0367,0,24,1873,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2413904,Taipu,-5.63058,-35.5918,0,24,1875,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414001,Tangará,-6.19649,-35.7989,0,24,1877,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414100,Tenente Ananias,-6.45823,-38.182,0,24,1879,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414159,Tenente Laurentino Cruz,-6.1378,-36.7135,0,24,434,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2411056,Tibau,-4.83729,-37.2554,0,24,428,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414209,Tibau do Sul,-6.19176,-35.0866,0,24,1881,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414308,Timbaúba dos Batistas,-6.45768,-37.2745,0,24,1883,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414407,Touros,-5.20182,-35.4621,0,24,1885,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414456,Triunfo Potiguar,-5.85408,-37.1786,0,24,436,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414506,Umarizal,-5.98238,-37.818,0,24,1887,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414605,Upanema,-5.63761,-37.2635,0,24,1889,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414704,Várzea,-6.34641,-35.3732,0,24,1891,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414753,Venha-Ver,-6.32016,-38.4896,0,24,438,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414803,Vera Cruz,-6.04399,-35.428,0,24,1895,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2414902,Viçosa,-5.98253,-37.9462,0,24,1897,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste
+2415008,Vila Flor,-6.31287,-35.067,0,24,1899,84,America/Sao_Paulo,RN,Rio Grande do Norte,-5.81,-36.59,Nordeste

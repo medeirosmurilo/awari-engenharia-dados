@@ -1,0 +1,186 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+2600054,Abreu e Lima,-7.90072,-34.8984,0,26,2631,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600104,Afogados da Ingazeira,-7.74312,-37.631,0,26,2301,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600203,Afrânio,-8.51136,-41.0095,0,26,2303,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600302,Agrestina,-8.45966,-35.9447,0,26,2305,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600401,Água Preta,-8.70609,-35.5263,0,26,2307,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600500,Águas Belas,-9.11125,-37.1226,0,26,2309,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600609,Alagoinha,-8.4665,-36.7788,0,26,2311,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600708,Aliança,-7.60398,-35.2227,0,26,2313,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600807,Altinho,-8.48482,-36.0644,0,26,2315,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2600906,Amaraji,-8.37691,-35.4501,0,26,2317,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601003,Angelim,-8.88429,-36.2902,0,26,2319,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601052,Araçoiaba,-7.78391,-35.0809,0,26,544,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601102,Araripina,-7.57073,-40.494,0,26,2321,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601201,Arcoverde,-8.41519,-37.0577,0,26,2323,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601300,Barra de Guabiraba,-8.42075,-35.6585,0,26,2325,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601409,Barreiros,-8.81605,-35.1832,0,26,2327,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601508,Belém de Maria,-8.62504,-35.8335,0,26,2329,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601607,Belém do São Francisco,-8.75046,-38.9623,0,26,2331,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601706,Belo Jardim,-8.3313,-36.4258,0,26,2333,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601805,Betânia,-8.26787,-38.0345,0,26,2335,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2601904,Bezerros,-8.2328,-35.796,0,26,2337,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602001,Bodocó,-7.77759,-39.9338,0,26,2339,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602100,Bom Conselho,-9.16919,-36.6857,0,26,2341,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602209,Bom Jardim,-7.79695,-35.5784,0,26,2343,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602308,Bonito,-8.47163,-35.7292,0,26,2345,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602407,Brejão,-9.02915,-36.566,0,26,2347,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602506,Brejinho,-7.34694,-37.2865,0,26,2349,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602605,Brejo da Madre de Deus,-8.14933,-36.3741,0,26,2351,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602704,Buenos Aires,-7.72449,-35.3182,0,26,2353,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602803,Buíque,-8.61954,-37.1606,0,26,2355,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2602902,Cabo de Santo Agostinho,-8.28218,-35.0253,0,26,2357,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603009,Cabrobó,-8.50548,-39.3094,0,26,2359,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603108,Cachoeirinha,-8.48668,-36.2402,0,26,2361,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603207,Caetés,-8.7803,-36.6268,0,26,2363,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603306,Calçado,-8.73108,-36.3366,0,26,2365,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603405,Calumbi,-7.93551,-38.1482,0,26,2367,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603454,Camaragibe,-8.02351,-34.9782,0,26,2629,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603504,Camocim de São Félix,-8.35865,-35.7653,0,26,2369,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603603,Camutanga,-7.40545,-35.2664,0,26,2371,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603702,Canhotinho,-8.87652,-36.1979,0,26,2373,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603801,Capoeiras,-8.73423,-36.6306,0,26,2375,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603900,Carnaíba,-7.79342,-37.7946,0,26,2377,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2603926,Carnaubeira da Penha,-8.31799,-38.7512,0,26,2635,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604007,Carpina,-7.84566,-35.2514,0,26,2379,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604106,Caruaru,-8.28455,-35.9699,0,26,2381,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604155,Casinhas,-7.74084,-35.7206,0,26,546,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604205,Catende,-8.67509,-35.7024,0,26,2383,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604304,Cedro,-7.71179,-39.2367,0,26,2385,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604403,Chã de Alegria,-8.00679,-35.204,0,26,2387,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604502,Chã Grande,-8.23827,-35.4571,0,26,2389,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604601,Condado,-7.58787,-35.0999,0,26,2391,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604700,Correntes,-9.12117,-36.3244,0,26,2393,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604809,Cortês,-8.47443,-35.5468,0,26,2395,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2604908,Cumaru,-8.00827,-35.6957,0,26,2397,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605004,Cupira,-8.62432,-35.9518,0,26,2399,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605103,Custódia,-8.08546,-37.6443,0,26,2401,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605152,Dormentes,-8.44116,-40.7662,0,26,2299,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605202,Escada,-8.35672,-35.2241,0,26,2403,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605301,Exu,-7.50364,-39.7238,0,26,2405,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605400,Feira Nova,-7.94704,-35.3801,0,26,2407,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605459,Fernando de Noronha,-3.8396,-32.4107,0,26,3001,81,America/Noronha,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605509,Ferreiros,-7.44666,-35.2373,0,26,2409,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605608,Flores,-7.85842,-37.9715,0,26,2411,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605707,Floresta,-8.60307,-38.5687,0,26,2413,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605806,Frei Miguelinho,-7.93918,-35.9113,0,26,2415,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2605905,Gameleira,-8.5798,-35.3846,0,26,2417,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606002,Garanhuns,-8.88243,-36.4966,0,26,2419,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606101,Glória do Goitá,-8.00568,-35.2904,0,26,2421,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606200,Goiana,-7.5606,-34.9959,0,26,2423,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606309,Granito,-7.70711,-39.615,0,26,2425,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606408,Gravatá,-8.21118,-35.5675,0,26,2427,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606507,Iati,-9.04559,-36.8498,0,26,2429,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606606,Ibimirim,-8.54026,-37.7032,0,26,2431,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606705,Ibirajuba,-8.57633,-36.1812,0,26,2433,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606804,Igarassu,-7.82881,-34.9013,0,26,2435,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2606903,Iguaracy,-7.83222,-37.5082,0,26,2437,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607604,Ilha de Itamaracá,-7.74766,-34.8303,0,26,2451,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607000,Inajá,-8.90206,-37.8351,0,26,2439,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607109,Ingazeira,-7.66909,-37.4576,0,26,2441,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607208,Ipojuca,-8.39303,-35.0609,0,26,2443,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607307,Ipubi,-7.64505,-40.1476,0,26,2445,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607406,Itacuruba,-8.82231,-38.6975,0,26,2447,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607505,Itaíba,-8.94569,-37.4173,0,26,2449,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607653,Itambé,-7.41403,-35.0963,0,26,2597,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607703,Itapetim,-7.37178,-37.1863,0,26,2453,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607752,Itapissuma,-7.76798,-34.8971,0,26,2633,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607802,Itaquitinga,-7.66373,-35.1002,0,26,2455,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607901,Jaboatão dos Guararapes,-8.11298,-35.015,0,26,2457,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2607950,Jaqueira,-8.72618,-35.7942,0,26,548,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608008,Jataúba,-7.97668,-36.4943,0,26,2459,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608057,Jatobá,-9.17476,-38.2607,0,26,550,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608107,João Alfredo,-7.86565,-35.5787,0,26,2461,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608206,Joaquim Nabuco,-8.62281,-35.5288,0,26,2463,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608255,Jucati,-8.70195,-36.4871,0,26,2295,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608305,Jupi,-8.70904,-36.4126,0,26,2465,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608404,Jurema,-8.70714,-36.1347,0,26,2467,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608503,Lagoa de Itaenga,-7.93005,-35.2874,0,26,2469,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608453,Lagoa do Carro,-7.84383,-35.3108,0,26,2289,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608602,Lagoa do Ouro,-9.12567,-36.4584,0,26,2471,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608701,Lagoa dos Gatos,-8.6602,-35.904,0,26,2473,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608750,Lagoa Grande,-8.99452,-40.2767,0,26,552,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608800,Lajedo,-8.65791,-36.3293,0,26,2475,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2608909,Limoeiro,-7.8726,-35.4402,0,26,2477,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609006,Macaparana,-7.55564,-35.4425,0,26,2479,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609105,Machados,-7.68827,-35.5114,0,26,2481,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609154,Manari,-8.9649,-37.6313,0,26,554,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609204,Maraial,-8.79062,-35.8266,0,26,2483,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609303,Mirandiba,-8.12113,-38.7388,0,26,2485,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614303,Moreilândia,-7.61931,-39.546,0,26,2585,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609402,Moreno,-8.10871,-35.0835,0,26,2487,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609501,Nazaré da Mata,-7.74149,-35.2193,0,26,2489,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609600,Olinda,-8.01017,-34.8545,0,26,2491,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609709,Orobó,-7.74553,-35.5956,0,26,2493,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609808,Orocó,-8.61026,-39.6026,0,26,2495,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2609907,Ouricuri,-7.87918,-40.08,0,26,2497,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610004,Palmares,-8.68423,-35.589,0,26,2499,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610103,Palmeirina,-9.0109,-36.3242,0,26,2501,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610202,Panelas,-8.66121,-36.0125,0,26,2503,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610301,Paranatama,-8.91875,-36.6549,0,26,2505,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610400,Parnamirim,-8.08729,-39.5795,0,26,2507,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610509,Passira,-7.9971,-35.5813,0,26,2509,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610608,Paudalho,-7.90287,-35.1716,0,26,2511,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610707,Paulista,-7.93401,-34.8684,0,26,2513,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610806,Pedra,-8.49641,-36.94,0,26,2515,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2610905,Pesqueira,-8.35797,-36.6978,0,26,2517,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611002,Petrolândia,-9.06863,-38.3027,0,26,2519,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611101,Petrolina,-9.38866,-40.5027,0,26,2521,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611200,Poção,-8.18726,-36.7111,0,26,2523,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611309,Pombos,-8.13982,-35.3967,0,26,2525,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611408,Primavera,-8.32999,-35.3544,0,26,2527,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611507,Quipapá,-8.81175,-36.0137,0,26,2529,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611533,Quixaba,-7.70734,-37.8446,0,26,2637,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611606,Recife,-8.04666,-34.8771,1,26,2531,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611705,Riacho das Almas,-8.13742,-35.8648,0,26,2533,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611804,Ribeirão,-8.50957,-35.3698,0,26,2535,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2611903,Rio Formoso,-8.6592,-35.1532,0,26,2537,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612000,Sairé,-8.32864,-35.6967,0,26,2539,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612109,Salgadinho,-7.9269,-35.6503,0,26,2541,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612208,Salgueiro,-8.07373,-39.1247,0,26,2543,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612307,Saloá,-8.9723,-36.691,0,26,2545,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612406,Sanharó,-8.36097,-36.5696,0,26,2547,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612455,Santa Cruz,-8.24153,-40.3434,0,26,2297,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612471,Santa Cruz da Baixa Verde,-7.81339,-38.1476,0,26,2639,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612505,Santa Cruz do Capibaribe,-7.94802,-36.2061,0,26,2549,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612554,Santa Filomena,-8.16688,-40.6079,0,26,556,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612604,Santa Maria da Boa Vista,-8.79766,-39.8241,0,26,2551,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612703,Santa Maria do Cambucá,-7.83676,-35.8941,0,26,2553,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612802,Santa Terezinha,-7.37696,-37.4787,0,26,2555,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2612901,São Benedito do Sul,-8.8166,-35.9453,0,26,2557,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613008,São Bento do Una,-8.52637,-36.4465,0,26,2559,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613107,São Caetano,-8.33763,-36.2869,0,26,2561,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613206,São João,-8.87576,-36.3653,0,26,2563,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613305,São Joaquim do Monte,-8.43196,-35.8035,0,26,2565,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613404,São José da Coroa Grande,-8.88937,-35.1515,0,26,2567,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613503,São José do Belmonte,-7.85723,-38.7577,0,26,2569,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613602,São José do Egito,-7.46945,-37.274,0,26,2571,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613701,São Lourenço da Mata,-8.00684,-35.0124,0,26,2573,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613800,São Vicente Ferrer,-7.58969,-35.4808,0,26,2575,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2613909,Serra Talhada,-7.98178,-38.289,0,26,2577,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614006,Serrita,-7.94041,-39.2951,0,26,2579,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614105,Sertânia,-8.06847,-37.2684,0,26,2581,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614204,Sirinhaém,-8.58778,-35.1126,0,26,2583,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614402,Solidão,-7.59472,-37.6445,0,26,2587,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614501,Surubim,-7.84746,-35.7481,0,26,2589,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614600,Tabira,-7.58366,-37.5377,0,26,2591,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614709,Tacaimbó,-8.30867,-36.3,0,26,2593,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614808,Tacaratu,-9.09798,-38.1504,0,26,2595,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2614857,Tamandaré,-8.75665,-35.1033,0,26,558,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615003,Taquaritinga do Norte,-7.89446,-36.0423,0,26,2599,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615102,Terezinha,-9.05621,-36.6272,0,26,2601,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615201,Terra Nova,-8.22244,-39.3825,0,26,2603,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615300,Timbaúba,-7.50484,-35.3119,0,26,2605,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615409,Toritama,-8.00955,-36.0637,0,26,2607,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615508,Tracunhaém,-7.80228,-35.2314,0,26,2609,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615607,Trindade,-7.759,-40.2647,0,26,2611,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615706,Triunfo,-7.83272,-38.0978,0,26,2613,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615805,Tupanatinga,-8.74798,-37.3445,0,26,2615,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2615904,Tuparetama,-7.6003,-37.3165,0,26,2617,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2616001,Venturosa,-8.57885,-36.8742,0,26,2619,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2616100,Verdejante,-7.92235,-38.9701,0,26,2621,87,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2616183,Vertente do Lério,-7.77084,-35.8491,0,26,2291,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2616209,Vertentes,-7.90158,-35.9681,0,26,2623,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2616308,Vicência,-7.65655,-35.3139,0,26,2625,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2616407,Vitória de Santo Antão,-8.12819,-35.2976,0,26,2627,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste
+2616506,Xexéu,-8.8046,-35.6212,0,26,2293,81,America/Sao_Paulo,PE,Pernambuco,-8.38,-37.86,Nordeste

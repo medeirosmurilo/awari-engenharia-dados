@@ -1,0 +1,498 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+4300034,Aceguá,-31.8665,-54.1615,0,43,1118,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300059,Água Santa,-28.1672,-52.031,0,43,8499,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300109,Agudo,-29.6447,-53.2515,0,43,8501,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300208,Ajuricaba,-28.2342,-53.7757,0,43,8503,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300307,Alecrim,-27.6579,-54.7649,0,43,8505,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300406,Alegrete,-29.7902,-55.7949,0,43,8507,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300455,Alegria,-27.8345,-54.0557,0,43,8497,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300471,Almirante Tamandaré do Sul,-28.1149,-52.9142,0,43,1120,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300505,Alpestre,-27.2502,-53.0341,0,43,8509,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300554,Alto Alegre,-28.7769,-52.9893,0,43,8495,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300570,Alto Feliz,-29.3919,-51.3123,0,43,6045,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300604,Alvorada,-29.9914,-51.0809,0,43,8511,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300638,Amaral Ferrador,-30.8756,-52.2509,0,43,8493,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300646,Ametista do Sul,-27.3607,-53.183,0,43,5969,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300661,André da Rocha,-28.6283,-51.5797,0,43,8491,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300703,Anta Gorda,-28.9698,-52.0102,0,43,8513,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300802,Antônio Prado,-28.8565,-51.2883,0,43,8515,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300851,Arambaré,-30.9092,-51.5046,0,43,5779,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300877,Araricá,-29.6168,-50.9291,0,43,952,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4300901,Aratiba,-27.3978,-52.2975,0,43,8517,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301008,Arroio do Meio,-29.4014,-51.9557,0,43,8519,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301073,Arroio do Padre,-31.4389,-52.4246,0,43,1122,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301057,Arroio do Sal,-29.5439,-49.8895,0,43,8489,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301206,Arroio do Tigre,-29.3348,-53.0966,0,43,8523,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301107,Arroio dos Ratos,-30.0875,-51.7275,0,43,8521,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301305,Arroio Grande,-32.2327,-53.0862,0,43,8525,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301404,Arvorezinha,-28.8737,-52.1781,0,43,8527,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301503,Augusto Pestana,-28.5172,-53.9883,0,43,8529,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301552,Áurea,-27.6936,-52.0505,0,43,8487,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301602,Bagé,-31.3297,-54.0999,0,43,8531,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301636,Balneário Pinhal,-30.2419,-50.2337,0,43,954,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301651,Barão,-29.3725,-51.4949,0,43,8485,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301701,Barão de Cotegipe,-27.6208,-52.3798,0,43,8533,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301750,Barão do Triunfo,-30.3891,-51.7384,0,43,5771,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301859,Barra do Guarita,-27.1927,-53.7109,0,43,6069,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301875,Barra do Quaraí,-30.2029,-57.5497,0,43,956,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301909,Barra do Ribeiro,-30.2939,-51.3014,0,43,8537,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301925,Barra do Rio Azul,-27.4069,-52.4084,0,43,5959,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301958,Barra Funda,-27.9205,-53.0391,0,43,5943,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4301800,Barracão,-27.6739,-51.4585,0,43,8535,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302006,Barros Cassal,-29.0947,-52.5836,0,43,8539,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302055,Benjamin Constant do Sul,-27.5086,-52.5995,0,43,958,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302105,Bento Gonçalves,-29.1662,-51.5165,0,43,8541,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302154,Boa Vista das Missões,-27.6671,-53.3102,0,43,5981,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302204,Boa Vista do Buricá,-27.6693,-54.1082,0,43,8543,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302220,Boa Vista do Cadeado,-28.5791,-53.8108,0,43,1124,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302238,Boa Vista do Incra,-28.8185,-53.391,0,43,1126,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302253,Boa Vista do Sul,-29.3544,-51.6687,0,43,960,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302303,Bom Jesus,-28.6697,-50.4295,0,43,8545,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302352,Bom Princípio,-29.4856,-51.3548,0,43,9823,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302378,Bom Progresso,-27.5399,-53.8716,0,43,6071,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302402,Bom Retiro do Sul,-29.6071,-51.9456,0,43,8547,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302451,Boqueirão do Leão,-29.3046,-52.4284,0,43,8483,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302501,Bossoroca,-28.7291,-54.9035,0,43,8549,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302584,Bozano,-28.3659,-53.772,0,43,1128,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302600,Braga,-27.6173,-53.7405,0,43,8551,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302659,Brochier,-29.5501,-51.5945,0,43,8449,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302709,Butiá,-30.1179,-51.9601,0,43,8553,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302808,Caçapava do Sul,-30.5144,-53.4827,0,43,8555,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4302907,Cacequi,-29.8883,-54.822,0,43,8557,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303004,Cachoeira do Sul,-30.033,-52.8928,0,43,8559,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303103,Cachoeirinha,-29.9472,-51.1016,0,43,8561,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303202,Cacique Doble,-27.767,-51.6597,0,43,8563,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303301,Caibaté,-28.2905,-54.6454,0,43,8565,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303400,Caiçara,-27.2791,-53.4257,0,43,8567,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303509,Camaquã,-30.8489,-51.8043,0,43,8569,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303558,Camargo,-28.588,-52.2003,0,43,8447,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303608,Cambará do Sul,-29.0474,-50.1465,0,43,8571,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303673,Campestre da Serra,-28.7926,-51.0941,0,43,6013,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303707,Campina das Missões,-27.9888,-54.8416,0,43,8573,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303806,Campinas do Sul,-27.7174,-52.6248,0,43,8575,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4303905,Campo Bom,-29.6747,-51.0606,0,43,8577,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304002,Campo Novo,-27.6792,-53.8052,0,43,8579,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304101,Campos Borges,-28.8871,-53.0008,0,43,8445,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304200,Candelária,-29.6684,-52.7895,0,43,8581,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304309,Cândido Godói,-27.9515,-54.7517,0,43,8583,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304358,Candiota,-31.5516,-53.6773,0,43,6083,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304408,Canela,-29.356,-50.8119,0,43,8585,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304507,Canguçu,-31.396,-52.6783,0,43,8587,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304606,Canoas,-29.9128,-51.1857,0,43,8589,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304614,Canudos do Vale,-29.3271,-52.2374,0,43,1130,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304622,Capão Bonito do Sul,-28.1254,-51.3961,0,43,1132,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304630,Capão da Canoa,-29.7642,-50.0282,0,43,8915,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304655,Capão do Cipó,-28.9312,-54.5558,0,43,1134,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304663,Capão do Leão,-31.7565,-52.4889,0,43,8973,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304689,Capela de Santana,-29.6961,-51.328,0,43,8443,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304697,Capitão,-29.2674,-51.9853,0,43,6025,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304671,Capivari do Sul,-30.1383,-50.5152,0,43,962,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304713,Caraá,-29.7869,-50.4316,0,43,964,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304705,Carazinho,-28.2958,-52.7933,0,43,8591,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304804,Carlos Barbosa,-29.2969,-51.5028,0,43,8593,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304853,Carlos Gomes,-27.7167,-51.9121,0,43,5961,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304903,Casca,-28.5605,-51.9815,0,43,8595,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4304952,Caseiros,-28.2582,-51.6861,0,43,8441,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305009,Catuípe,-28.2554,-54.0132,0,43,8597,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305108,Caxias do Sul,-29.1629,-51.1792,0,43,8599,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305116,Centenário,-27.7615,-51.9984,0,43,5963,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305124,Cerrito,-31.8419,-52.8004,0,43,966,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305132,Cerro Branco,-29.657,-52.9406,0,43,8439,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305157,Cerro Grande,-27.6106,-53.1672,0,43,8437,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305173,Cerro Grande do Sul,-30.5905,-51.7418,0,43,8435,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305207,Cerro Largo,-28.1463,-54.7428,0,43,8601,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305306,Chapada,-28.0559,-53.0665,0,43,8603,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305355,Charqueadas,-29.9625,-51.6289,0,43,8693,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305371,Charrua,-27.9493,-52.015,0,43,5965,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305405,Chiapetta,-27.923,-53.9419,0,43,8605,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305439,Chuí,-33.6866,-53.4594,0,43,968,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305447,Chuvisca,-30.7504,-51.9737,0,43,970,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305454,Cidreira,-30.1604,-50.2337,0,43,8433,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305504,Ciríaco,-28.3419,-51.8741,0,43,8607,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305587,Colinas,-29.3948,-51.8556,0,43,6029,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305603,Colorado,-28.5258,-52.9928,0,43,8609,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305702,Condor,-28.2075,-53.4905,0,43,8611,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305801,Constantina,-27.732,-52.9938,0,43,8613,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305835,Coqueiro Baixo,-29.1802,-52.0942,0,43,1136,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305850,Coqueiros do Sul,-28.1194,-52.7842,0,43,5945,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305871,Coronel Barros,-28.3921,-54.0686,0,43,6055,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305900,Coronel Bicaco,-27.7197,-53.7022,0,43,8615,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305934,Coronel Pilar,-29.2695,-51.6847,0,43,1138,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305959,Cotiporã,-28.9891,-51.6971,0,43,8977,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4305975,Coxilha,-28.128,-52.3023,0,43,5797,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306007,Crissiumal,-27.4999,-54.0994,0,43,8617,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306056,Cristal,-31.0046,-52.0436,0,43,8431,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306072,Cristal do Sul,-27.452,-53.2422,0,43,972,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306106,Cruz Alta,-28.645,-53.6048,0,43,8619,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306130,Cruzaltense,-27.6672,-52.6522,0,43,1140,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306205,Cruzeiro do Sul,-29.5148,-51.9928,0,43,8621,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306304,David Canabarro,-28.3849,-51.8482,0,43,8623,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306320,Derrubadas,-27.2642,-53.8645,0,43,6073,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306353,Dezesseis de Novembro,-28.219,-55.0617,0,43,8429,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306379,Dilermando de Aguiar,-29.7054,-54.2122,0,43,974,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306403,Dois Irmãos,-29.5836,-51.0898,0,43,8625,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306429,Dois Irmãos das Missões,-27.6621,-53.5304,0,43,5971,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306452,Dois Lajeados,-28.983,-51.8396,0,43,8427,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306502,Dom Feliciano,-30.7004,-52.1026,0,43,8627,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306601,Dom Pedrito,-30.9756,-54.6694,0,43,8629,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306551,Dom Pedro de Alcântara,-29.3639,-49.853,0,43,976,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306700,Dona Francisca,-29.6195,-53.3617,0,43,8631,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306734,Doutor Maurício Cardoso,-27.5103,-54.3577,0,43,8425,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306759,Doutor Ricardo,-29.084,-51.9972,0,43,978,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306767,Eldorado do Sul,-30.0847,-51.6187,0,43,8423,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306809,Encantado,-29.2351,-51.8703,0,43,8633,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306908,Encruzilhada do Sul,-30.543,-52.5204,0,43,8635,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306924,Engenho Velho,-27.706,-52.9145,0,43,5947,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306957,Entre Rios do Sul,-27.5298,-52.7347,0,43,8421,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306932,Entre-Ijuís,-28.3686,-54.2686,0,43,8419,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4306973,Erebango,-27.8544,-52.3005,0,43,8417,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307005,Erechim,-27.6364,-52.2697,0,43,8637,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307054,Ernestina,-28.4977,-52.5836,0,43,8415,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307203,Erval Grande,-27.3926,-52.574,0,43,8641,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307302,Erval Seco,-27.5443,-53.5005,0,43,8643,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307401,Esmeralda,-28.0518,-51.1933,0,43,8645,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307450,Esperança do Sul,-27.3603,-53.9891,0,43,980,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307500,Espumoso,-28.7286,-52.8461,0,43,8647,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307559,Estação,-27.9135,-52.2635,0,43,7301,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307609,Estância Velha,-29.6535,-51.1843,0,43,8649,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307708,Esteio,-29.852,-51.1841,0,43,8651,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307807,Estrela,-29.5002,-51.9495,0,43,8653,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307815,Estrela Velha,-29.1713,-53.1639,0,43,982,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307831,Eugênio de Castro,-28.5315,-54.1506,0,43,8413,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307864,Fagundes Varela,-28.8794,-51.7014,0,43,8411,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307906,Farroupilha,-29.2227,-51.3419,0,43,8655,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308003,Faxinal do Soturno,-29.5788,-53.4484,0,43,8657,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308052,Faxinalzinho,-27.4238,-52.6789,0,43,8409,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308078,Fazenda Vilanova,-29.5885,-51.8217,0,43,984,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308102,Feliz,-29.4527,-51.3032,0,43,8659,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308201,Flores da Cunha,-29.0261,-51.1875,0,43,8661,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308250,Floriano Peixoto,-27.8614,-52.0838,0,43,986,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308300,Fontoura Xavier,-28.9817,-52.3445,0,43,8663,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308409,Formigueiro,-30.0035,-53.4959,0,43,8665,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308433,Forquetinha,-29.3828,-52.0981,0,43,1142,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308458,Fortaleza dos Valos,-28.7986,-53.2249,0,43,9827,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308508,Frederico Westphalen,-27.3586,-53.3958,0,43,8667,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308607,Garibaldi,-29.259,-51.5352,0,43,8669,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308656,Garruchos,-28.1944,-55.6383,0,43,6081,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308706,Gaurama,-27.5856,-52.0915,0,43,8671,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308805,General Câmara,-29.9032,-51.7612,0,43,8673,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308854,Gentil,-28.4316,-52.0337,0,43,5799,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4308904,Getúlio Vargas,-27.8911,-52.2294,0,43,8677,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309001,Giruá,-28.0297,-54.3517,0,43,8679,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309050,Glorinha,-29.8798,-50.7734,0,43,8407,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309100,Gramado,-29.3734,-50.8762,0,43,8681,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309126,Gramado dos Loureiros,-27.4429,-52.9149,0,43,5949,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309159,Gramado Xavier,-29.2706,-52.5795,0,43,5763,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309209,Gravataí,-29.9413,-50.9869,0,43,8683,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309258,Guabiju,-28.5421,-51.6948,0,43,8405,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309308,Guaíba,-30.1086,-51.3233,0,43,8685,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309407,Guaporé,-28.8399,-51.8895,0,43,8687,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309506,Guarani das Missões,-28.1491,-54.5629,0,43,8689,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309555,Harmonia,-29.5456,-51.4185,0,43,8403,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4307104,Herval,-32.024,-53.3944,0,43,8639,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309571,Herveiras,-29.4552,-52.6553,0,43,988,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309605,Horizontina,-27.6282,-54.3053,0,43,8691,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309654,Hulha Negra,-31.4067,-53.8667,0,43,6085,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309704,Humaitá,-27.5691,-53.9695,0,43,8695,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309753,Ibarama,-29.4203,-53.1295,0,43,8401,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309803,Ibiaçá,-28.0566,-51.8599,0,43,8697,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309902,Ibiraiaras,-28.3741,-51.6377,0,43,8699,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4309951,Ibirapuitã,-28.6247,-52.5158,0,43,7299,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310009,Ibirubá,-28.6302,-53.0961,0,43,8701,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310108,Igrejinha,-29.5693,-50.7919,0,43,8703,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310207,Ijuí,-28.388,-53.92,0,43,8705,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310306,Ilópolis,-28.9282,-52.1258,0,43,8707,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310330,Imbé,-29.9753,-50.1281,0,43,7297,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310363,Imigrante,-29.3508,-51.7748,0,43,7295,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310405,Independência,-27.8354,-54.1886,0,43,8709,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310413,Inhacorá,-27.8752,-54.015,0,43,6051,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310439,Ipê,-28.8171,-51.2859,0,43,8399,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310462,Ipiranga do Sul,-27.9404,-52.4271,0,43,7399,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310504,Iraí,-27.1951,-53.2543,0,43,8711,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310538,Itaara,-29.6013,-53.7725,0,43,990,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310553,Itacurubi,-28.7913,-55.2447,0,43,7397,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310579,Itapuca,-28.7768,-52.1693,0,43,6027,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310603,Itaqui,-29.1311,-56.5515,0,43,8713,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310652,Itati,-29.4974,-50.1016,0,43,1144,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310702,Itatiba do Sul,-27.3846,-52.4538,0,43,8715,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310751,Ivorá,-29.5232,-53.5842,0,43,7395,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310801,Ivoti,-29.5995,-51.1533,0,43,8717,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310850,Jaboticaba,-27.6347,-53.2762,0,43,7393,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310876,Jacuizinho,-29.0401,-53.0657,0,43,1146,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4310900,Jacutinga,-27.7291,-52.5372,0,43,8719,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311007,Jaguarão,-32.5604,-53.377,0,43,8721,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311106,Jaguari,-29.4936,-54.703,0,43,8723,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311122,Jaquirana,-28.8811,-50.3637,0,43,7391,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311130,Jari,-29.2922,-54.2237,0,43,992,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311155,Jóia,-28.6435,-54.1141,0,43,9829,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311205,Júlio de Castilhos,-29.2299,-53.6772,0,43,8725,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311239,Lagoa Bonita do Sul,-29.4939,-53.017,0,43,1148,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311270,Lagoa dos Três Cantos,-28.5676,-52.8618,0,43,5951,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311304,Lagoa Vermelha,-28.2093,-51.5248,0,43,8727,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311254,Lagoão,-29.2348,-52.7997,0,43,7389,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311403,Lajeado,-29.4591,-51.9644,0,43,8729,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311429,Lajeado do Bugre,-27.6913,-53.1818,0,43,5983,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311502,Lavras do Sul,-30.8071,-53.8931,0,43,8731,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311601,Liberato Salzano,-27.601,-53.0753,0,43,8733,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311627,Lindolfo Collor,-29.5859,-51.2141,0,43,6017,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311643,Linha Nova,-29.4679,-51.2003,0,43,6047,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311718,Maçambará,-29.1445,-56.0674,0,43,994,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311700,Machadinho,-27.5667,-51.6668,0,43,8735,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311734,Mampituba,-29.2136,-49.9311,0,43,996,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311759,Manoel Viana,-29.5859,-55.4841,0,43,6079,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311775,Maquiné,-29.6798,-50.2079,0,43,5783,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311791,Maratá,-29.5457,-51.5573,0,43,6039,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311809,Marau,-28.4498,-52.1986,0,43,8737,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311908,Marcelino Ramos,-27.4676,-51.9095,0,43,8739,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4311981,Mariana Pimentel,-30.353,-51.5803,0,43,5759,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312005,Mariano Moro,-27.3568,-52.1467,0,43,8741,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312054,Marques de Souza,-29.3311,-52.0973,0,43,998,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312104,Mata,-29.5649,-54.4641,0,43,8743,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312138,Mato Castelhano,-28.28,-52.1932,0,43,5931,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312153,Mato Leitão,-29.5285,-52.1278,0,43,6031,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312179,Mato Queimado,-28.252,-54.6159,0,43,1150,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312203,Maximiliano de Almeida,-27.6325,-51.802,0,43,8745,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312252,Minas do Leão,-30.1346,-52.0423,0,43,5773,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312302,Miraguaí,-27.497,-53.6891,0,43,8747,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312351,Montauri,-28.6462,-52.0767,0,43,7387,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312377,Monte Alegre dos Campos,-28.6805,-50.7834,0,43,1000,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312385,Monte Belo do Sul,-29.1607,-51.6333,0,43,5993,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312401,Montenegro,-29.6824,-51.4679,0,43,8749,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312427,Mormaço,-28.6968,-52.6999,0,43,5933,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312443,Morrinhos do Sul,-29.3578,-49.9328,0,43,5775,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312450,Morro Redondo,-31.5887,-52.6261,0,43,7385,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312476,Morro Reuter,-29.5379,-51.0811,0,43,6019,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312500,Mostardas,-31.1054,-50.9167,0,43,8751,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312609,Muçum,-29.163,-51.8714,0,43,8753,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312617,Muitos Capões,-28.3132,-51.1836,0,43,1002,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312625,Muliterno,-28.3253,-51.7697,0,43,5935,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312658,Não-Me-Toque,-28.4548,-52.8182,0,43,8755,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312674,Nicolau Vergueiro,-28.5298,-52.4676,0,43,5937,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312708,Nonoai,-27.3689,-52.7756,0,43,8757,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312757,Nova Alvorada,-28.6822,-52.1631,0,43,7383,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312807,Nova Araçá,-28.6537,-51.7458,0,43,8759,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312906,Nova Bassano,-28.7291,-51.7072,0,43,8761,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4312955,Nova Boa Vista,-27.9926,-52.9784,0,43,5953,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313003,Nova Bréscia,-29.2182,-52.0319,0,43,8763,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313011,Nova Candelária,-27.6137,-54.1074,0,43,1004,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313037,Nova Esperança do Sul,-29.4066,-54.8293,0,43,7381,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313060,Nova Hartz,-29.5808,-50.9051,0,43,7379,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313086,Nova Pádua,-29.0275,-51.3098,0,43,5991,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313102,Nova Palma,-29.471,-53.4689,0,43,8765,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313201,Nova Petrópolis,-29.3741,-51.1136,0,43,8767,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313300,Nova Prata,-28.7799,-51.6113,0,43,8769,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313334,Nova Ramada,-28.0667,-53.6992,0,43,1006,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313359,Nova Roma do Sul,-28.9882,-51.4095,0,43,7377,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313375,Nova Santa Rita,-29.8525,-51.2837,0,43,5757,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313490,Novo Barreiro,-27.9077,-53.1103,0,43,5985,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313391,Novo Cabrais,-29.7338,-52.9489,0,43,1008,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313409,Novo Hamburgo,-29.6875,-51.1328,0,43,8771,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313425,Novo Machado,-27.5765,-54.5036,0,43,6057,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313441,Novo Tiradentes,-27.5649,-53.1837,0,43,5973,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313466,Novo Xingu,-27.749,-53.0639,0,43,1152,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313508,Osório,-29.8881,-50.2667,0,43,8773,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313607,Paim Filho,-27.7075,-51.763,0,43,8775,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313656,Palmares do Sul,-30.2535,-50.5103,0,43,8967,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313706,Palmeira das Missões,-27.9007,-53.3134,0,43,8777,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313805,Palmitinho,-27.3596,-53.558,0,43,8779,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313904,Panambi,-28.2833,-53.5023,0,43,8781,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4313953,Pantano Grande,-30.1902,-52.3729,0,43,7375,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314001,Paraí,-28.5964,-51.7896,0,43,8783,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314027,Paraíso do Sul,-29.6717,-53.144,0,43,7373,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314035,Pareci Novo,-29.6365,-51.3974,0,43,6041,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314050,Parobé,-29.6243,-50.8312,0,43,9825,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314068,Passa Sete,-29.4577,-52.9599,0,43,1010,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314076,Passo do Sobrado,-29.748,-52.2748,0,43,5765,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314100,Passo Fundo,-28.2576,-52.4091,0,43,8785,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314134,Paulo Bento,-27.7051,-52.4169,0,43,1154,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314159,Paverama,-29.5486,-51.7339,0,43,7371,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314175,Pedras Altas,-31.7365,-53.5814,0,43,1156,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314209,Pedro Osório,-31.8642,-52.8184,0,43,8787,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314308,Pejuçara,-28.4283,-53.6579,0,43,8789,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314407,Pelotas,-31.7649,-52.3371,0,43,8791,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314423,Picada Café,-29.4464,-51.1367,0,43,6021,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314456,Pinhal,-27.508,-53.2082,0,43,7369,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314464,Pinhal da Serra,-27.8751,-51.1673,0,43,1158,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314472,Pinhal Grande,-29.345,-53.3206,0,43,5787,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314498,Pinheirinho do Vale,-27.2109,-53.608,0,43,5975,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314506,Pinheiro Machado,-31.5794,-53.3798,0,43,8793,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314548,Pinto Bandeira,-29.0975,-51.4503,0,43,1160,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314555,Pirapó,-28.0439,-55.2001,0,43,7367,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314605,Piratini,-31.4473,-53.0973,0,43,8795,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314704,Planalto,-27.3297,-53.0575,0,43,8797,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314753,Poço das Antas,-29.4481,-51.6719,0,43,7365,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314779,Pontão,-28.0585,-52.6791,0,43,5939,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314787,Ponte Preta,-27.6587,-52.4848,0,43,5967,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314803,Portão,-29.7015,-51.2429,0,43,8799,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4314902,Porto Alegre,-30.0318,-51.2065,1,43,8801,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315008,Porto Lucena,-27.8569,-55.01,0,43,8803,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315057,Porto Mauá,-27.5796,-54.6657,0,43,6065,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315073,Porto Vera Cruz,-27.7405,-54.8994,0,43,6067,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315107,Porto Xavier,-27.9082,-55.1379,0,43,8805,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315131,Pouso Novo,-29.1738,-52.2136,0,43,7363,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315149,Presidente Lucena,-29.5175,-51.1798,0,43,6023,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315156,Progresso,-29.2441,-52.3197,0,43,7361,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315172,Protásio Alves,-28.7572,-51.4757,0,43,7359,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315206,Putinga,-29.0045,-52.1569,0,43,8807,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315305,Quaraí,-30.384,-56.4483,0,43,8809,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315313,Quatro Irmãos,-27.8257,-52.4424,0,43,1162,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315321,Quevedos,-29.3504,-54.0789,0,43,5789,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315354,Quinze de Novembro,-28.7466,-53.1011,0,43,7357,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315404,Redentora,-27.664,-53.6407,0,43,8811,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315453,Relvado,-29.1164,-52.0778,0,43,7355,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315503,Restinga Sêca,-29.8188,-53.3807,0,43,8813,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315552,Rio dos Índios,-27.2973,-52.8417,0,43,5955,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315602,Rio Grande,-32.0349,-52.1071,0,43,8815,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315701,Rio Pardo,-29.988,-52.3711,0,43,8817,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315750,Riozinho,-29.639,-50.4488,0,43,7353,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315800,Roca Sales,-29.2884,-51.8658,0,43,8819,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315909,Rodeio Bonito,-27.4742,-53.1706,0,43,8821,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4315958,Rolador,-28.2566,-54.8186,0,43,1164,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316006,Rolante,-29.6462,-50.5819,0,43,8823,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316105,Ronda Alta,-27.7758,-52.8056,0,43,8825,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316204,Rondinha,-27.8315,-52.9081,0,43,8827,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316303,Roque Gonzales,-28.1297,-55.0266,0,43,8829,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316402,Rosário do Sul,-30.2515,-54.9221,0,43,8831,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316428,Sagrada Família,-27.7085,-53.1351,0,43,5987,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316436,Saldanha Marinho,-28.3941,-53.097,0,43,7339,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316451,Salto do Jacuí,-29.0951,-53.2133,0,43,8975,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316477,Salvador das Missões,-28.1233,-54.8373,0,43,6061,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316501,Salvador do Sul,-29.4386,-51.5077,0,43,8833,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316600,Sananduva,-27.947,-51.8079,0,43,8835,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317103,Sant'Ana do Livramento,-30.8773,-55.5392,0,43,8845,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316709,Santa Bárbara do Sul,-28.3653,-53.251,0,43,8837,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316733,Santa Cecília do Sul,-28.1609,-51.9279,0,43,1166,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316758,Santa Clara do Sul,-29.4747,-52.0843,0,43,6033,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316808,Santa Cruz do Sul,-29.722,-52.4343,0,43,8839,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316972,Santa Margarida do Sul,-30.3393,-54.0817,0,43,1168,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316907,Santa Maria,-29.6868,-53.8149,0,43,8841,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4316956,Santa Maria do Herval,-29.4902,-50.9919,0,43,7337,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317202,Santa Rosa,-27.8702,-54.4796,0,43,8847,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317251,Santa Tereza,-29.1655,-51.7351,0,43,5995,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317301,Santa Vitória do Palmar,-33.525,-53.3717,0,43,8849,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317004,Santana da Boa Vista,-30.8697,-53.11,0,43,8843,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317400,Santiago,-29.1897,-54.8666,0,43,8851,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317509,Santo Ângelo,-28.3001,-54.2668,0,43,8853,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317608,Santo Antônio da Patrulha,-29.8268,-50.5175,0,43,8855,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317707,Santo Antônio das Missões,-28.514,-55.2251,0,43,8857,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317558,Santo Antônio do Palma,-28.4956,-52.0267,0,43,5941,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317756,Santo Antônio do Planalto,-28.403,-52.6992,0,43,5957,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317806,Santo Augusto,-27.8526,-53.7776,0,43,8859,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317905,Santo Cristo,-27.8263,-54.662,0,43,8861,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4317954,Santo Expedito do Sul,-27.9074,-51.6434,0,43,5977,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318002,São Borja,-28.6578,-56.0036,0,43,8863,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318051,São Domingos do Sul,-28.5312,-51.886,0,43,7351,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318101,São Francisco de Assis,-29.5547,-55.1253,0,43,8865,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318200,São Francisco de Paula,-29.4404,-50.5828,0,43,8867,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318309,São Gabriel,-30.3337,-54.3217,0,43,8869,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318408,São Jerônimo,-29.9716,-51.7251,0,43,8871,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318424,São João da Urtiga,-27.8195,-51.8257,0,43,7349,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318432,São João do Polêsine,-29.6194,-53.4439,0,43,5791,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318440,São Jorge,-28.4984,-51.7064,0,43,7347,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318457,São José das Missões,-27.7789,-53.1226,0,43,5989,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318465,São José do Herval,-29.052,-52.295,0,43,7345,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318481,São José do Hortêncio,-29.528,-51.245,0,43,7343,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318499,São José do Inhacorá,-27.7251,-54.1275,0,43,6059,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318507,São José do Norte,-32.0151,-52.0331,0,43,8873,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318606,São José do Ouro,-27.7707,-51.5966,0,43,8875,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318614,São José do Sul,-29.5448,-51.4821,0,43,1170,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318622,São José dos Ausentes,-28.7476,-50.0677,0,43,6015,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318705,São Leopoldo,-29.7545,-51.1498,0,43,8877,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318804,São Lourenço do Sul,-31.3564,-51.9715,0,43,8879,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4318903,São Luiz Gonzaga,-28.412,-54.9559,0,43,8881,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319000,São Marcos,-28.9677,-51.0696,0,43,8883,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319109,São Martinho,-27.7112,-53.9699,0,43,8885,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319125,São Martinho da Serra,-29.5397,-53.859,0,43,5793,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319158,São Miguel das Missões,-28.556,-54.5559,0,43,7341,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319208,São Nicolau,-28.1834,-55.2654,0,43,8887,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319307,São Paulo das Missões,-28.0195,-54.9404,0,43,8889,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319356,São Pedro da Serra,-29.4193,-51.5134,0,43,6043,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319364,São Pedro das Missões,-27.7706,-53.2513,0,43,1172,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319372,São Pedro do Butiá,-28.1243,-54.8926,0,43,6063,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319406,São Pedro do Sul,-29.6202,-54.1855,0,43,8891,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319505,São Sebastião do Caí,-29.5885,-51.3749,0,43,8893,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319604,São Sepé,-30.1643,-53.5603,0,43,8895,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319703,São Valentim,-27.5583,-52.5237,0,43,8897,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319711,São Valentim do Sul,-29.0451,-51.7684,0,43,5997,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319737,São Valério do Sul,-27.7906,-53.9368,0,43,6075,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319752,São Vendelino,-29.3729,-51.3675,0,43,7293,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319802,São Vicente do Sul,-29.6882,-54.6826,0,43,8675,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4319901,Sapiranga,-29.6349,-51.0064,0,43,8899,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320008,Sapucaia do Sul,-29.8276,-51.145,0,43,8901,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320107,Sarandi,-27.942,-52.9231,0,43,8903,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320206,Seberi,-27.4829,-53.4026,0,43,8905,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320230,Sede Nova,-27.6367,-53.9493,0,43,7335,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320263,Segredo,-29.3523,-52.9767,0,43,7317,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320305,Selbach,-28.6294,-52.9498,0,43,8907,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320321,Senador Salgado Filho,-28.025,-54.5507,0,43,1012,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320354,Sentinela do Sul,-30.6107,-51.5862,0,43,5781,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320404,Serafina Corrêa,-28.7126,-51.9352,0,43,8909,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320453,Sério,-29.3904,-52.2685,0,43,6035,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320503,Sertão,-27.9798,-52.2588,0,43,8911,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320552,Sertão Santana,-30.4562,-51.6017,0,43,5761,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320578,Sete de Setembro,-28.1362,-54.4637,0,43,1014,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320602,Severiano de Almeida,-27.4362,-52.1217,0,43,8913,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320651,Silveira Martins,-29.6467,-53.591,0,43,7315,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320677,Sinimbu,-29.5357,-52.5304,0,43,5767,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320701,Sobradinho,-29.4194,-53.0326,0,43,8917,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320800,Soledade,-28.8306,-52.5131,0,43,8919,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320859,Tabaí,-29.643,-51.6823,0,43,1016,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4320909,Tapejara,-28.0652,-52.0097,0,43,8921,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321006,Tapera,-28.6277,-52.8613,0,43,8923,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321105,Tapes,-30.6683,-51.3991,0,43,8925,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321204,Taquara,-29.6505,-50.7753,0,43,8927,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321303,Taquari,-29.7943,-51.8653,0,43,8929,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321329,Taquaruçu do Sul,-27.4005,-53.4702,0,43,7313,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321352,Tavares,-31.2843,-51.088,0,43,8971,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321402,Tenente Portela,-27.3711,-53.7585,0,43,8931,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321436,Terra de Areia,-29.5782,-50.0644,0,43,7333,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321451,Teutônia,-29.4482,-51.8044,0,43,9821,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321469,Tio Hugo,-28.5712,-52.5955,0,43,1174,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321477,Tiradentes do Sul,-27.4022,-54.0814,0,43,6077,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321493,Toropi,-29.4782,-54.2244,0,43,1018,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321501,Torres,-29.3334,-49.7333,0,43,8933,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321600,Tramandaí,-29.9841,-50.1322,0,43,8935,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321626,Travesseiro,-29.2977,-52.0532,0,43,6037,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321634,Três Arroios,-27.5003,-52.1448,0,43,7331,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321667,Três Cachoeiras,-29.4487,-49.9275,0,43,7329,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321709,Três Coroas,-29.5137,-50.7739,0,43,8937,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321808,Três de Maio,-27.78,-54.2357,0,43,8939,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321832,Três Forquilhas,-29.5384,-50.0708,0,43,5777,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321857,Três Palmeiras,-27.6139,-52.8437,0,43,7327,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321907,Três Passos,-27.4555,-53.9296,0,43,8941,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4321956,Trindade do Sul,-27.5239,-52.8956,0,43,7325,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322004,Triunfo,-29.9291,-51.7075,0,43,8943,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322103,Tucunduva,-27.6573,-54.4439,0,43,8945,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322152,Tunas,-29.1039,-52.9538,0,43,7323,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322186,Tupanci do Sul,-27.9241,-51.5383,0,43,5979,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322202,Tupanciretã,-29.0858,-53.8445,0,43,8947,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322251,Tupandi,-29.4772,-51.4174,0,43,7321,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322301,Tuparendi,-27.7598,-54.4814,0,43,8949,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322327,Turuçu,-31.4173,-52.1706,0,43,1020,53,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322343,Ubiretama,-28.0404,-54.686,0,43,1022,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322350,União da Serra,-28.7833,-52.0238,0,43,5999,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322376,Unistalda,-29.04,-55.1517,0,43,1024,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322400,Uruguaiana,-29.7614,-57.0853,0,43,8951,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322509,Vacaria,-28.5079,-50.9418,0,43,8953,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322533,Vale do Sol,-29.5967,-52.6839,0,43,5769,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322541,Vale Real,-29.3919,-51.2559,0,43,6049,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322525,Vale Verde,-29.7864,-52.1857,0,43,1026,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322558,Vanini,-28.4758,-51.8447,0,43,7319,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322608,Venâncio Aires,-29.6143,-52.1932,0,43,8955,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322707,Vera Cruz,-29.7184,-52.5152,0,43,8957,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322806,Veranópolis,-28.9312,-51.5516,0,43,8959,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322855,Vespasiano Corrêa,-29.0655,-51.8625,0,43,1028,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4322905,Viadutos,-27.5716,-52.0211,0,43,8961,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323002,Viamão,-30.0819,-51.0194,0,43,8963,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323101,Vicente Dutra,-27.1607,-53.4022,0,43,8965,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323200,Victor Graeff,-28.5632,-52.7495,0,43,8969,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323309,Vila Flores,-28.8598,-51.5504,0,43,7311,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323358,Vila Lângaro,-28.1062,-52.1438,0,43,1030,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323408,Vila Maria,-28.5359,-52.1486,0,43,7309,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323457,Vila Nova do Sul,-30.3461,-53.876,0,43,5795,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323507,Vista Alegre,-27.3686,-53.4919,0,43,7307,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323606,Vista Alegre do Prata,-28.8052,-51.7947,0,43,7305,54,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323705,Vista Gaúcha,-27.2902,-53.6974,0,43,7303,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323754,Vitória das Missões,-28.3516,-54.504,0,43,6053,55,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323770,Westfália,-29.4263,-51.7645,0,43,1176,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul
+4323804,Xangri-lá,-29.8065,-50.0519,0,43,5785,51,America/Sao_Paulo,RS,Rio Grande do Sul,-30.17,-53.5,Sul

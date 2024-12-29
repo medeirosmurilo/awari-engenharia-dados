@@ -1,0 +1,53 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+1100015,Alta Floresta D'Oeste,-11.9283,-61.9953,0,11,33,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100379,Alto Alegre dos Parecis,-12.132,-61.835,0,11,2,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100403,Alto Paraíso,-9.71429,-63.3188,0,11,675,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100346,Alvorada D'Oeste,-11.3463,-62.2847,0,11,35,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100023,Ariquemes,-9.90571,-63.0325,0,11,7,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100452,Buritis,-10.1943,-63.8324,0,11,4,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100031,Cabixi,-13.4945,-60.552,0,11,37,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100601,Cacaulândia,-10.349,-62.9043,0,11,677,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100049,Cacoal,-11.4343,-61.4562,0,11,9,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100700,Campo Novo de Rondônia,-10.5712,-63.6266,0,11,679,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100809,Candeias do Jamari,-8.7907,-63.7005,0,11,681,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100908,Castanheiras,-11.4253,-61.9482,0,11,691,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100056,Cerejeiras,-13.187,-60.8168,0,11,27,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100924,Chupinguaia,-12.5611,-60.8877,0,11,6,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100064,Colorado do Oeste,-13.1174,-60.5454,0,11,23,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100072,Corumbiara,-12.9551,-60.8947,0,11,981,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100080,Costa Marques,-12.4367,-64.228,0,11,21,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100940,Cujubim,-9.36065,-62.5846,0,11,8,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100098,Espigão D'Oeste,-11.5266,-61.0252,0,11,25,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101005,Governador Jorge Teixeira,-10.61,-62.7371,0,11,693,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100106,Guajará-Mirim,-10.7889,-65.3296,0,11,1,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101104,Itapuã do Oeste,-9.19687,-63.1809,0,11,683,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100114,Jaru,-10.4318,-62.4788,0,11,15,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100122,Ji-Paraná,-10.8777,-61.9322,0,11,5,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100130,Machadinho D'Oeste,-9.44363,-61.9818,0,11,39,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101203,Ministro Andreazza,-11.196,-61.5174,0,11,695,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101302,Mirante da Serra,-11.029,-62.6696,0,11,697,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101401,Monte Negro,-10.2458,-63.29,0,11,685,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100148,Nova Brasilândia D'Oeste,-11.7247,-62.3127,0,11,41,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100338,Nova Mamoré,-10.4077,-65.3346,0,11,47,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101435,Nova União,-10.9068,-62.5564,0,11,10,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100502,Novo Horizonte do Oeste,-11.6961,-61.9951,0,11,689,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100155,Ouro Preto do Oeste,-10.7167,-62.2565,0,11,17,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101450,Parecis,-12.1754,-61.6032,0,11,12,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100189,Pimenta Bueno,-11.672,-61.198,0,11,11,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101468,Pimenteiras do Oeste,-13.4823,-61.0471,0,11,14,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100205,Porto Velho,-8.76077,-63.8999,1,11,3,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100254,Presidente Médici,-11.169,-61.8986,0,11,19,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101476,Primavera de Rondônia,-11.8295,-61.3153,0,11,16,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100262,Rio Crespo,-9.69965,-62.9011,0,11,687,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100288,Rolim de Moura,-11.7271,-61.7714,0,11,29,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100296,Santa Luzia D'Oeste,-11.9074,-61.7777,0,11,43,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101484,São Felipe D'Oeste,-11.9023,-61.5026,0,11,18,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101492,São Francisco do Guaporé,-12.052,-63.568,0,11,20,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100320,São Miguel do Guaporé,-11.6953,-62.7192,0,11,45,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101500,Seringueiras,-11.8055,-63.0182,0,11,699,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101559,Teixeirópolis,-10.9056,-62.242,0,11,22,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101609,Theobroma,-10.2483,-62.3538,0,11,975,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101708,Urupá,-11.1261,-62.3639,0,11,977,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101757,Vale do Anari,-9.86215,-62.1876,0,11,24,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1101807,Vale do Paraíso,-10.4465,-62.1352,0,11,979,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte
+1100304,Vilhena,-12.7502,-60.1488,0,11,13,69,America/Porto_Velho,RO,Rondônia,-10.83,-63.34,Norte

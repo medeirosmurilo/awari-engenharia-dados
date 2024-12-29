@@ -1,0 +1,247 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+5200050,Abadia de Goiás,-16.7573,-49.4412,0,52,1050,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200100,Abadiânia,-16.197,-48.7057,0,52,9201,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200134,Acreúna,-17.396,-50.3749,0,52,9645,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200159,Adelândia,-16.4127,-50.1657,0,52,9769,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200175,Água Fria de Goiás,-14.9778,-47.7823,0,52,9771,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200209,Água Limpa,-18.0771,-48.7603,0,52,9203,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200258,Águas Lindas de Goiás,-15.7617,-48.2816,0,52,1052,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200308,Alexânia,-16.0834,-48.5076,0,52,9205,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200506,Aloândia,-17.7292,-49.4769,0,52,9209,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200555,Alto Horizonte,-14.1978,-49.3378,0,52,85,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200605,Alto Paraíso de Goiás,-14.1305,-47.51,0,52,9211,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200803,Alvorada do Norte,-14.4797,-46.491,0,52,9215,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200829,Amaralina,-13.9236,-49.2962,0,52,1054,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200852,Americano do Brasil,-16.2514,-49.9831,0,52,9661,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5200902,Amorinópolis,-16.6151,-51.0919,0,52,9217,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201108,Anápolis,-16.3281,-48.953,0,52,9221,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201207,Anhanguera,-18.3339,-48.2204,0,52,9223,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201306,Anicuns,-16.4642,-49.9617,0,52,9225,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201405,Aparecida de Goiânia,-16.8198,-49.2469,0,52,9227,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201454,Aparecida do Rio Doce,-18.2941,-51.1516,0,52,71,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201504,Aporé,-18.9607,-51.9232,0,52,9229,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201603,Araçu,-16.3563,-49.6804,0,52,9231,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201702,Aragarças,-15.8955,-52.2372,0,52,9233,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5201801,Aragoiânia,-16.9087,-49.4476,0,52,9235,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5202155,Araguapaz,-15.0909,-50.6315,0,52,9669,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5202353,Arenópolis,-16.3837,-51.5563,0,52,9671,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5202502,Aruanã,-14.9166,-51.075,0,52,9249,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5202601,Aurilândia,-16.6773,-50.4641,0,52,9251,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5202809,Avelinópolis,-16.4672,-49.7579,0,52,9255,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203104,Baliza,-16.1966,-52.5393,0,52,9261,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203203,Barro Alto,-14.9658,-48.9086,0,52,9263,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203302,Bela Vista de Goiás,-16.9693,-48.9513,0,52,9265,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203401,Bom Jardim de Goiás,-16.2063,-52.1728,0,52,9267,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203500,Bom Jesus de Goiás,-18.2173,-49.74,0,52,9269,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203559,Bonfinópolis,-16.6173,-48.9616,0,52,9775,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203575,Bonópolis,-13.6329,-49.8106,0,52,1056,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203609,Brazabrantes,-16.4281,-49.3863,0,52,9271,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203807,Britânia,-15.2428,-51.1602,0,52,9275,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203906,Buriti Alegre,-18.1378,-49.0404,0,52,9277,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203939,Buriti de Goiás,-16.1792,-50.4302,0,52,63,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5203962,Buritinópolis,-14.4772,-46.4076,0,52,61,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204003,Cabeceiras,-15.7995,-46.9265,0,52,9279,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204102,Cachoeira Alta,-18.7618,-50.9432,0,52,9281,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204201,Cachoeira de Goiás,-16.6635,-50.646,0,52,9283,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204250,Cachoeira Dourada,-18.4859,-49.4766,0,52,9673,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204300,Caçu,-18.5594,-51.1328,0,52,9285,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204409,Caiapônia,-16.9539,-51.8091,0,52,9287,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204508,Caldas Novas,-17.7441,-48.6246,0,52,9289,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204557,Caldazinha,-16.7117,-49.0013,0,52,31,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204607,Campestre de Goiás,-16.7624,-49.695,0,52,9291,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204656,Campinaçu,-13.787,-48.5704,0,52,9687,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204706,Campinorte,-14.3137,-49.1511,0,52,9293,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204805,Campo Alegre de Goiás,-17.6363,-47.7768,0,52,9295,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204854,Campo Limpo de Goiás,-16.2971,-49.0895,0,52,1070,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204904,Campos Belos,-13.035,-46.7681,0,52,9297,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5204953,Campos Verdes,-14.2442,-49.6528,0,52,9781,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205000,Carmo do Rio Verde,-15.3549,-49.708,0,52,9299,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205059,Castelândia,-18.0921,-50.203,0,52,81,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205109,Catalão,-18.1656,-47.944,0,52,9301,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205208,Caturaí,-16.4447,-49.4936,0,52,9303,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205307,Cavalcante,-13.7976,-47.4566,0,52,9305,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205406,Ceres,-15.3061,-49.6,0,52,9307,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205455,Cezarina,-16.9718,-49.7758,0,52,9785,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205471,Chapadão do Céu,-18.4073,-52.549,0,52,73,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205497,Cidade Ocidental,-16.0765,-47.9252,0,52,77,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205513,Cocalzinho de Goiás,-15.7914,-48.7747,0,52,55,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205521,Colinas do Sul,-14.1528,-48.076,0,52,9791,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205703,Córrego do Ouro,-16.2918,-50.5503,0,52,9315,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205802,Corumbá de Goiás,-15.9245,-48.8117,0,52,9317,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5205901,Corumbaíba,-18.1415,-48.5626,0,52,9319,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206206,Cristalina,-16.7676,-47.6131,0,52,9325,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206305,Cristianópolis,-17.1987,-48.7034,0,52,9327,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206404,Crixás,-14.5412,-49.974,0,52,9329,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206503,Cromínia,-17.2883,-49.3798,0,52,9331,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206602,Cumari,-18.2644,-48.1511,0,52,9333,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206701,Damianópolis,-14.5604,-46.178,0,52,9335,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206800,Damolândia,-16.2544,-49.3631,0,52,9337,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5206909,Davinópolis,-18.1501,-47.5568,0,52,9339,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207105,Diorama,-16.2329,-51.2543,0,52,9343,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208301,Divinópolis de Goiás,-13.2853,-46.3999,0,52,9309,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207253,Doverlândia,-16.7188,-52.3189,0,52,9675,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207352,Edealina,-17.4239,-49.6644,0,52,9795,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207402,Edéia,-17.3406,-49.9295,0,52,9349,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207501,Estrela do Norte,-13.8665,-49.0716,0,52,9351,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207535,Faina,-15.4473,-50.3622,0,52,9797,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207600,Fazenda Nova,-16.1834,-50.7781,0,52,9353,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207808,Firminópolis,-16.5778,-50.304,0,52,9357,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5207907,Flores de Goiás,-14.4451,-47.0417,0,52,9359,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208004,Formosa,-15.54,-47.337,0,52,9361,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208103,Formoso,-13.6499,-48.8775,0,52,9363,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208152,Gameleira de Goiás,-16.4854,-48.6454,0,52,1072,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208400,Goianápolis,-16.5098,-49.0234,0,52,9367,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208509,Goiandira,-18.1352,-48.0875,0,52,9369,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208608,Goianésia,-15.3118,-49.1162,0,52,9371,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208707,Goiânia,-16.6864,-49.2643,1,52,9373,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208806,Goianira,-16.4947,-49.427,0,52,9375,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5208905,Goiás,-15.9333,-50.14,0,52,9377,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209101,Goiatuba,-18.0105,-49.3658,0,52,9379,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209150,Gouvelândia,-18.6238,-50.0805,0,52,9799,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209200,Guapó,-16.8297,-49.5345,0,52,9381,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209291,Guaraíta,-15.6121,-50.0265,0,52,65,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209408,Guarani de Goiás,-13.9421,-46.4868,0,52,9383,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209457,Guarinos,-14.7292,-49.7006,0,52,9993,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209606,Heitoraí,-15.719,-49.8268,0,52,9387,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209705,Hidrolândia,-16.9626,-49.2265,0,52,9389,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209804,Hidrolina,-14.7261,-49.4634,0,52,9391,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209903,Iaciara,-14.1011,-46.6335,0,52,9393,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209937,Inaciolândia,-18.4869,-49.9888,0,52,69,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5209952,Indiara,-17.1387,-49.9862,0,52,9681,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210000,Inhumas,-16.3611,-49.5001,0,52,9395,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210109,Ipameri,-17.7215,-48.1581,0,52,9397,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210158,Ipiranga de Goiás,-15.1689,-49.6695,0,52,1074,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210208,Iporá,-16.4398,-51.118,0,52,9399,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210307,Israelândia,-16.3144,-50.9087,0,52,9401,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210406,Itaberaí,-16.0206,-49.806,0,52,9403,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210562,Itaguari,-15.918,-49.6071,0,52,9919,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210604,Itaguaru,-15.7565,-49.6354,0,52,9407,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210802,Itajá,-19.0673,-51.5495,0,52,9411,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5210901,Itapaci,-14.9522,-49.5511,0,52,9413,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211008,Itapirapuã,-15.8205,-50.6094,0,52,9415,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211206,Itapuranga,-15.5606,-49.949,0,52,9419,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211305,Itarumã,-18.7646,-51.3485,0,52,9421,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211404,Itauçu,-16.2029,-49.6109,0,52,9423,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211503,Itumbiara,-18.4093,-49.2158,0,52,9425,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211602,Ivolândia,-16.5995,-50.7921,0,52,9427,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211701,Jandaia,-17.0481,-50.1453,0,52,9429,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211800,Jaraguá,-15.7529,-49.3344,0,52,9431,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5211909,Jataí,-17.8784,-51.7204,0,52,9433,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212006,Jaupaci,-16.1773,-50.9508,0,52,9435,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212055,Jesúpolis,-15.9484,-49.3739,0,52,49,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212105,Joviânia,-17.802,-49.6197,0,52,9437,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212204,Jussara,-15.8659,-50.8668,0,52,9439,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212253,Lagoa Santa,-19.1832,-51.3998,0,52,1076,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212303,Leopoldo de Bulhões,-16.619,-48.7428,0,52,9443,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212501,Luziânia,-16.253,-47.95,0,52,9445,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212600,Mairipotaba,-17.2975,-49.4898,0,52,9447,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212709,Mambaí,-14.4823,-46.1165,0,52,9449,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212808,Mara Rosa,-14.0148,-49.1777,0,52,9451,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212907,Marzagão,-17.983,-48.6415,0,52,9453,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5212956,Matrinchã,-15.4342,-50.7456,0,52,9927,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213004,Maurilândia,-17.9719,-50.3388,0,52,9457,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213053,Mimoso de Goiás,-15.0515,-48.1611,0,52,9931,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213087,Minaçu,-13.5304,-48.2206,0,52,9647,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213103,Mineiros,-17.5654,-52.5537,0,52,9459,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213400,Moiporá,-16.5434,-50.739,0,52,9465,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213509,Monte Alegre de Goiás,-13.2552,-46.8928,0,52,9467,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213707,Montes Claros de Goiás,-16.0059,-51.3979,0,52,9471,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213756,Montividiu,-17.4439,-51.1728,0,52,9933,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213772,Montividiu do Norte,-13.3485,-48.6853,0,52,79,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213806,Morrinhos,-17.7334,-49.1059,0,52,9473,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213855,Morro Agudo de Goiás,-15.3184,-50.0553,0,52,9935,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5213905,Mossâmedes,-16.124,-50.2136,0,52,9475,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214002,Mozarlândia,-14.7457,-50.5713,0,52,9477,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214051,Mundo Novo,-13.7729,-50.2814,0,52,9651,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214101,Mutunópolis,-13.7303,-49.2745,0,52,9479,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214408,Nazário,-16.5808,-49.8817,0,52,9485,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214507,Nerópolis,-16.4047,-49.2227,0,52,9487,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214606,Niquelândia,-14.4662,-48.4599,0,52,9489,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214705,Nova América,-15.0206,-49.8953,0,52,9491,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214804,Nova Aurora,-18.0597,-48.2552,0,52,9493,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214838,Nova Crixás,-14.0957,-50.33,0,52,9653,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214861,Nova Glória,-15.145,-49.5737,0,52,9655,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214879,Nova Iguaçu de Goiás,-14.2868,-49.3872,0,52,87,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5214903,Nova Roma,-13.7388,-46.8734,0,52,9495,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215009,Nova Veneza,-16.3695,-49.3168,0,52,9497,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215207,Novo Brasil,-16.0313,-50.7113,0,52,9501,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215231,Novo Gama,-16.0592,-48.0417,0,52,1058,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215256,Novo Planalto,-13.2424,-49.506,0,52,9735,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215306,Orizona,-17.0334,-48.2964,0,52,9503,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215405,Ouro Verde de Goiás,-16.2181,-49.1942,0,52,9505,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215504,Ouvidor,-18.2277,-47.8355,0,52,9507,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215603,Padre Bernardo,-15.1605,-48.2833,0,52,9509,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215652,Palestina de Goiás,-16.7392,-51.5309,0,52,9737,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215702,Palmeiras de Goiás,-16.8044,-49.924,0,52,9511,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215801,Palmelo,-17.3258,-48.426,0,52,9513,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5215900,Palminópolis,-16.7924,-50.1652,0,52,9515,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5216007,Panamá,-18.1783,-49.355,0,52,9517,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5216304,Paranaiguara,-18.9141,-50.6539,0,52,9455,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5216403,Paraúna,-16.9463,-50.4484,0,52,9523,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5216452,Perolândia,-17.5258,-52.065,0,52,75,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5216809,Petrolina de Goiás,-16.0968,-49.3364,0,52,9531,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5216908,Pilar de Goiás,-14.7608,-49.5784,0,52,9535,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5217104,Piracanjuba,-17.302,-49.017,0,52,9539,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5217203,Piranhas,-16.4258,-51.8235,0,52,9541,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5217302,Pirenópolis,-15.8507,-48.9584,0,52,9543,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5217401,Pires do Rio,-17.3019,-48.2768,0,52,9545,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5217609,Planaltina,-15.452,-47.6089,0,52,9595,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5217708,Pontalina,-17.5225,-49.4489,0,52,9549,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218003,Porangatu,-13.4391,-49.1503,0,52,9555,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218052,Porteirão,-17.8143,-50.1653,0,52,1060,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218102,Portelândia,-17.3554,-52.6799,0,52,9557,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218300,Posse,-14.0859,-46.3704,0,52,9561,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218391,Professor Jamil,-17.2497,-49.244,0,52,51,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218508,Quirinópolis,-18.4472,-50.4547,0,52,9563,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218607,Rialma,-15.3145,-49.5814,0,52,9565,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218706,Rianápolis,-15.4456,-49.5114,0,52,9567,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218789,Rio Quente,-17.774,-48.7725,0,52,9995,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218805,Rio Verde,-17.7923,-50.9192,0,52,9571,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5218904,Rubiataba,-15.1617,-49.8048,0,52,9573,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219001,Sanclerlândia,-16.197,-50.3124,0,52,9575,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219100,Santa Bárbara de Goiás,-16.5714,-49.6954,0,52,9577,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219209,Santa Cruz de Goiás,-17.3155,-48.4809,0,52,9579,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219258,Santa Fé de Goiás,-15.7664,-51.1037,0,52,9743,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219308,Santa Helena de Goiás,-17.8115,-50.5977,0,52,9581,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219357,Santa Isabel,-15.2958,-49.4259,0,52,9689,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219407,Santa Rita do Araguaia,-17.3269,-53.2012,0,52,9583,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219456,Santa Rita do Novo Destino,-15.1351,-49.1203,0,52,1062,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219506,Santa Rosa de Goiás,-16.084,-49.4953,0,52,9585,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219605,Santa Tereza de Goiás,-13.7138,-49.0144,0,52,9587,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219704,Santa Terezinha de Goiás,-14.4326,-49.7091,0,52,9589,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219712,Santo Antônio da Barra,-17.5585,-50.6345,0,52,83,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219738,Santo Antônio de Goiás,-16.4815,-49.3096,0,52,53,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219753,Santo Antônio do Descoberto,-15.9412,-48.2578,0,52,9677,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219803,São Domingos,-13.621,-46.7415,0,52,9591,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5219902,São Francisco de Goiás,-15.9256,-49.2605,0,52,9593,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220009,São João d'Aliança,-14.7048,-47.5228,0,52,9597,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220058,São João da Paraúna,-16.8126,-50.4092,0,52,9747,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220108,São Luís de Montes Belos,-16.5211,-50.3726,0,52,9599,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220157,São Luiz do Norte,-14.8608,-49.3285,0,52,9749,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220207,São Miguel do Araguaia,-13.2731,-50.1634,0,52,9601,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220264,São Miguel do Passa Quatro,-17.0582,-48.662,0,52,9751,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220280,São Patrício,-15.35,-49.818,0,52,1064,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220405,São Simão,-18.996,-50.547,0,52,9605,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220454,Senador Canedo,-16.7084,-49.0914,0,52,9753,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220504,Serranópolis,-18.3067,-51.9586,0,52,9607,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220603,Silvânia,-16.66,-48.6083,0,52,9609,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220686,Simolândia,-14.4644,-46.4847,0,52,9755,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5220702,Sítio d'Abadia,-14.7992,-46.2506,0,52,9611,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221007,Taquaral de Goiás,-16.0521,-49.6039,0,52,9617,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221080,Teresina de Goiás,-13.7801,-47.2659,0,52,9759,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221197,Terezópolis de Goiás,-16.3945,-49.0797,0,52,57,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221304,Três Ranchos,-18.3539,-47.776,0,52,9623,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221403,Trindade,-16.6517,-49.4927,0,52,9625,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221452,Trombas,-13.5079,-48.7417,0,52,9761,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221502,Turvânia,-16.6125,-50.1369,0,52,9631,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221551,Turvelândia,-17.8502,-50.3024,0,52,9765,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221577,Uirapuru,-14.2835,-49.9201,0,52,59,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221601,Uruaçu,-14.5238,-49.1396,0,52,9633,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221700,Uruana,-15.4993,-49.6861,0,52,9635,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221809,Urutaí,-17.4651,-48.2015,0,52,9637,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221858,Valparaíso de Goiás,-16.0651,-47.9757,0,52,1066,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5221908,Varjão,-17.0471,-49.6312,0,52,9639,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5222005,Vianópolis,-16.7405,-48.5159,0,52,9641,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5222054,Vicentinópolis,-17.7322,-49.8047,0,52,9657,64,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5222203,Vila Boa,-15.0387,-47.052,0,52,67,61,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste
+5222302,Vila Propício,-15.4542,-48.8819,0,52,1068,62,America/Sao_Paulo,GO,Goiás,-15.98,-49.86,Centro-Oeste

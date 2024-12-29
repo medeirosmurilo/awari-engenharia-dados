@@ -1,0 +1,79 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+3200102,Afonso Cláudio,-20.0778,-41.1261,0,32,5601,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200169,Água Doce do Norte,-18.5482,-40.9854,0,32,5717,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200136,Águia Branca,-18.9846,-40.7437,0,32,5733,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200201,Alegre,-20.758,-41.5382,0,32,5603,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200300,Alfredo Chaves,-20.6396,-40.7543,0,32,5605,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200359,Alto Rio Novo,-19.0618,-41.0209,0,32,5719,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200409,Anchieta,-20.7955,-40.6425,0,32,5607,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200508,Apiacá,-21.1523,-41.5693,0,32,5609,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200607,Aracruz,-19.82,-40.2764,0,32,5611,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200706,Atilio Vivacqua,-20.913,-41.1986,0,32,5613,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200805,Baixo Guandu,-19.5213,-41.0109,0,32,5615,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3200904,Barra de São Francisco,-18.7548,-40.8965,0,32,5617,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201001,Boa Esperança,-18.5395,-40.3025,0,32,5619,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201100,Bom Jesus do Norte,-21.1173,-41.6731,0,32,5621,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201159,Brejetuba,-20.1395,-41.2954,0,32,758,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201209,Cachoeiro de Itapemirim,-20.8462,-41.1198,0,32,5623,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201308,Cariacica,-20.2632,-40.4165,0,32,5625,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201407,Castelo,-20.6033,-41.2031,0,32,5627,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201506,Colatina,-19.5493,-40.6269,0,32,5629,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201605,Conceição da Barra,-18.5883,-39.7362,0,32,5631,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201704,Conceição do Castelo,-20.3639,-41.2417,0,32,5633,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201803,Divino de São Lourenço,-20.6229,-41.6937,0,32,5635,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3201902,Domingos Martins,-20.3603,-40.6594,0,32,5637,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202009,Dores do Rio Preto,-20.6931,-41.8405,0,32,5639,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202108,Ecoporanga,-18.3702,-40.836,0,32,5641,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202207,Fundão,-19.937,-40.4078,0,32,5643,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202256,Governador Lindenberg,-19.1864,-40.4473,0,32,1114,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202306,Guaçuí,-20.7668,-41.6734,0,32,5645,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202405,Guarapari,-20.6772,-40.5093,0,32,5647,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202454,Ibatiba,-20.2347,-41.5087,0,32,5709,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202504,Ibiraçu,-19.8366,-40.3732,0,32,5649,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202553,Ibitirama,-20.5466,-41.6667,0,32,6011,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202603,Iconha,-20.7913,-40.8132,0,32,5651,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202652,Irupi,-20.3501,-41.6444,0,32,2931,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202702,Itaguaçu,-19.8018,-40.8601,0,32,5653,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202801,Itapemirim,-21.0095,-40.8307,0,32,5655,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3202900,Itarana,-19.875,-40.8753,0,32,5657,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203007,Iúna,-20.3531,-41.5334,0,32,5659,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203056,Jaguaré,-18.907,-40.0759,0,32,5713,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203106,Jerônimo Monteiro,-20.7994,-41.3948,0,32,5661,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203130,João Neiva,-19.7577,-40.386,0,32,5721,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203163,Laranja da Terra,-19.8994,-41.0621,0,32,5723,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203205,Linhares,-19.3946,-40.0643,0,32,5663,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203304,Mantenópolis,-18.8594,-41.124,0,32,5665,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203320,Marataízes,-21.0398,-40.8384,0,32,760,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203346,Marechal Floriano,-20.4159,-40.67,0,32,2929,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203353,Marilândia,-19.4114,-40.5456,0,32,5707,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203403,Mimoso do Sul,-21.0628,-41.3615,0,32,5667,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203502,Montanha,-18.1303,-40.3668,0,32,5669,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203601,Mucurici,-18.0965,-40.52,0,32,5671,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203700,Muniz Freire,-20.4652,-41.4156,0,32,5673,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203809,Muqui,-20.9509,-41.346,0,32,5675,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3203908,Nova Venécia,-18.715,-40.4053,0,32,5677,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204005,Pancas,-19.2229,-40.8534,0,32,5679,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204054,Pedro Canário,-18.3004,-39.9574,0,32,5715,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204104,Pinheiros,-18.4141,-40.2171,0,32,5681,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204203,Piúma,-20.8334,-40.7268,0,32,5683,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204252,Ponto Belo,-18.1253,-40.5458,0,32,762,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204302,Presidente Kennedy,-21.0964,-41.0468,0,32,5685,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204351,Rio Bananal,-19.2719,-40.3366,0,32,5711,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204401,Rio Novo do Sul,-20.8556,-40.9388,0,32,5687,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204500,Santa Leopoldina,-20.0999,-40.527,0,32,5689,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204559,Santa Maria de Jetibá,-20.0253,-40.7439,0,32,5725,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204609,Santa Teresa,-19.9363,-40.5979,0,32,5691,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204658,São Domingos do Norte,-19.1452,-40.6281,0,32,2933,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204708,São Gabriel da Palha,-19.0182,-40.5365,0,32,5693,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204807,São José do Calçado,-21.0274,-41.6636,0,32,5695,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204906,São Mateus,-18.7214,-39.8579,0,32,5697,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3204955,São Roque do Canaã,-19.7411,-40.6526,0,32,764,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205002,Serra,-20.121,-40.3074,0,32,5699,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205010,Sooretama,-19.1897,-40.0974,0,32,766,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205036,Vargem Alta,-20.669,-41.0179,0,32,5727,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205069,Venda Nova do Imigrante,-20.327,-41.1355,0,32,5729,28,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205101,Viana,-20.3825,-40.4933,0,32,5701,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205150,Vila Pavão,-18.6091,-40.609,0,32,2935,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205176,Vila Valério,-18.9958,-40.3849,0,32,768,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205200,Vila Velha,-20.3417,-40.2875,0,32,5703,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste
+3205309,Vitória,-20.3155,-40.3128,1,32,5705,27,America/Sao_Paulo,ES,Espírito Santo,-19.19,-40.34,Sudeste

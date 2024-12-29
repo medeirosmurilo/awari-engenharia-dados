@@ -1,0 +1,103 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+2700102,Água Branca,-9.262,-37.938,0,27,2701,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700201,Anadia,-9.68489,-36.3078,0,27,2703,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700300,Arapiraca,-9.75487,-36.6615,0,27,2705,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700409,Atalaia,-9.5119,-36.0086,0,27,2707,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700508,Barra de Santo Antônio,-9.4023,-35.5101,0,27,2709,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700607,Barra de São Miguel,-9.83842,-35.9057,0,27,2711,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700706,Batalha,-9.6742,-37.133,0,27,2713,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700805,Belém,-9.57047,-36.4904,0,27,2715,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2700904,Belo Monte,-9.82272,-37.277,0,27,2717,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701001,Boca da Mata,-9.64308,-36.2125,0,27,2719,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701100,Branquinha,-9.23342,-36.0162,0,27,2721,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701209,Cacimbinhas,-9.40121,-36.9911,0,27,2723,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701308,Cajueiro,-9.3994,-36.1559,0,27,2725,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701357,Campestre,-8.84723,-35.5685,0,27,560,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701407,Campo Alegre,-9.78451,-36.3525,0,27,2727,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701506,Campo Grande,-9.95542,-36.7926,0,27,2729,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701605,Canapi,-9.11932,-37.5967,0,27,2731,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701704,Capela,-9.41504,-36.0826,0,27,2733,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701803,Carneiros,-9.48476,-37.3773,0,27,2735,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2701902,Chã Preta,-9.2556,-36.2983,0,27,2737,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702009,Coité do Nóia,-9.63348,-36.5845,0,27,2739,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702108,Colônia Leopoldina,-8.91806,-35.7214,0,27,2741,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702207,Coqueiro Seco,-9.63715,-35.7994,0,27,2743,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702306,Coruripe,-10.1276,-36.1717,0,27,2745,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702355,Craíbas,-9.6178,-36.7697,0,27,2889,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702405,Delmiro Gouveia,-9.38534,-37.9987,0,27,2747,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702504,Dois Riachos,-9.38465,-37.0965,0,27,2749,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702553,Estrela de Alagoas,-9.39089,-36.7644,0,27,2643,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702603,Feira Grande,-9.89859,-36.6815,0,27,2751,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702702,Feliz Deserto,-10.2935,-36.3028,0,27,2753,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702801,Flexeiras,-9.27281,-35.7139,0,27,2755,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2702900,Girau do Ponciano,-9.88404,-36.8316,0,27,2757,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703007,Ibateguara,-8.97823,-35.9373,0,27,2759,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703106,Igaci,-9.53768,-36.6372,0,27,2761,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703205,Igreja Nova,-10.1235,-36.6597,0,27,2763,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703304,Inhapi,-9.22594,-37.7509,0,27,2765,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703403,Jacaré dos Homens,-9.63545,-37.2076,0,27,2767,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703502,Jacuípe,-8.83951,-35.4591,0,27,2769,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703601,Japaratinga,-9.08746,-35.2634,0,27,2771,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703700,Jaramataia,-9.66224,-37.0046,0,27,2773,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703759,Jequiá da Praia,-10.0133,-36.0142,0,27,562,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703809,Joaquim Gomes,-9.1328,-35.7474,0,27,2775,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2703908,Jundiá,-8.93297,-35.5669,0,27,2777,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704005,Junqueiro,-9.90696,-36.4803,0,27,2779,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704104,Lagoa da Canoa,-9.83291,-36.7413,0,27,2781,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704203,Limoeiro de Anadia,-9.74098,-36.5121,0,27,2783,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704302,Maceió,-9.66599,-35.735,1,27,2785,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704401,Major Isidoro,-9.53009,-36.992,0,27,2787,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704906,Mar Vermelho,-9.44739,-36.3881,0,27,2797,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704500,Maragogi,-9.00744,-35.2267,0,27,2789,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704609,Maravilha,-9.23045,-37.3524,0,27,2791,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704708,Marechal Deodoro,-9.70971,-35.8967,0,27,2793,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2704807,Maribondo,-9.58353,-36.3045,0,27,2795,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705002,Mata Grande,-9.11824,-37.7323,0,27,2799,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705101,Matriz de Camaragibe,-9.15437,-35.5243,0,27,2801,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705200,Messias,-9.39384,-35.8392,0,27,2803,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705309,Minador do Negrão,-9.31236,-36.8696,0,27,2805,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705408,Monteirópolis,-9.60357,-37.2505,0,27,2807,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705507,Murici,-9.30682,-35.9428,0,27,2809,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705606,Novo Lino,-8.94191,-35.664,0,27,2811,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705705,Olho d'Água das Flores,-9.53686,-37.2971,0,27,2813,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705804,Olho d'Água do Casado,-9.50357,-37.8301,0,27,2815,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2705903,Olho d'Água Grande,-10.0572,-36.8101,0,27,2817,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706000,Olivença,-9.51954,-37.1954,0,27,2819,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706109,Ouro Branco,-9.15884,-37.3556,0,27,2821,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706208,Palestina,-9.67493,-37.339,0,27,2823,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706307,Palmeira dos Índios,-9.40568,-36.6328,0,27,2825,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706406,Pão de Açúcar,-9.74032,-37.4403,0,27,2827,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706422,Pariconha,-9.25634,-37.9988,0,27,2645,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706448,Paripueira,-9.46313,-35.552,0,27,2641,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706505,Passo de Camaragibe,-9.24511,-35.4745,0,27,2829,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706604,Paulo Jacinto,-9.36792,-36.3672,0,27,2831,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706703,Penedo,-10.2874,-36.5819,0,27,2833,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706802,Piaçabuçu,-10.406,-36.434,0,27,2835,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2706901,Pilar,-9.60135,-35.9543,0,27,2837,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707008,Pindoba,-9.47382,-36.2918,0,27,2839,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707107,Piranhas,-9.624,-37.757,0,27,2841,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707206,Poço das Trincheiras,-9.30742,-37.2889,0,27,2843,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707305,Porto Calvo,-9.05195,-35.3987,0,27,2845,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707404,Porto de Pedras,-9.16006,-35.3049,0,27,2847,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707503,Porto Real do Colégio,-10.1849,-36.8376,0,27,2849,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707602,Quebrangulo,-9.32001,-36.4692,0,27,2851,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707701,Rio Largo,-9.47783,-35.8394,0,27,2853,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707800,Roteiro,-9.83503,-35.9782,0,27,2855,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2707909,Santa Luzia do Norte,-9.6037,-35.8232,0,27,2857,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708006,Santana do Ipanema,-9.36999,-37.248,0,27,2859,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708105,Santana do Mundaú,-9.17141,-36.2176,0,27,2861,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708204,São Brás,-10.1141,-36.8522,0,27,2863,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708303,São José da Laje,-9.01278,-36.0515,0,27,2865,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708402,São José da Tapera,-9.55768,-37.3831,0,27,2867,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708501,São Luís do Quitunde,-9.31816,-35.5606,0,27,2869,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708600,São Miguel dos Campos,-9.78301,-36.0971,0,27,2871,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708709,São Miguel dos Milagres,-9.26493,-35.3763,0,27,2873,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708808,São Sebastião,-9.93043,-36.559,0,27,2875,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708907,Satuba,-9.56911,-35.8227,0,27,2877,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2708956,Senador Rui Palmeira,-9.46986,-37.4576,0,27,2891,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2709004,Tanque d'Arca,-9.53379,-36.4366,0,27,2879,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2709103,Taquarana,-9.64529,-36.4928,0,27,2881,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2709152,Teotônio Vilela,-9.91656,-36.3492,0,27,971,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2709202,Traipu,-9.96262,-37.0071,0,27,2883,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2709301,União dos Palmares,-9.15921,-36.0223,0,27,2885,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste
+2709400,Viçosa,-9.36763,-36.2431,0,27,2887,82,America/Sao_Paulo,AL,Alagoas,-9.62,-36.82,Nordeste

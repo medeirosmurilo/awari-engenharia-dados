@@ -1,0 +1,17 @@
+codigo_ibge,nome_x,latitude_x,longitude_x,capital,codigo_uf,siafi_id,ddd,fuso_horario,uf,nome_y,latitude_y,longitude_y,regiao
+1600105,Amapá,2.05267,-50.7957,0,16,601,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600204,Calçoene,2.50475,-50.9512,0,16,603,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600212,Cutias,0.970761,-50.8005,0,16,667,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600238,Ferreira Gomes,0.857256,-51.1795,0,16,611,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600253,Itaubal,0.602185,-50.6996,0,16,669,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600279,Laranjal do Jari,-0.804911,-52.453,0,16,613,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600303,Macapá,0.034934,-51.0694,1,16,605,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600402,Mazagão,-0.11336,-51.2891,0,16,607,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600501,Oiapoque,3.84074,-51.8331,0,16,609,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600154,Pedra Branca do Amapari,0.777424,-51.9503,0,16,663,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600535,Porto Grande,0.71243,-51.4155,0,16,671,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600550,Pracuúba,1.74543,-50.7892,0,16,673,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600600,Santana,-0.045434,-51.1729,0,16,615,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600055,Serra do Navio,0.901357,-52.0036,0,16,665,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600709,Tartarugalzinho,1.50652,-50.9087,0,16,617,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
+1600808,Vitória do Jari,-0.938,-52.424,0,16,70,96,America/Sao_Paulo,AP,Amapá,1.41,-51.77,Norte
